@@ -1,0 +1,4002 @@
+[
+  {
+    "kode_barang": "8999908000101 ",
+    "nama_barang": "NEO RHEUMACYL 20 TABLET"
+  },
+  {
+    "kode_barang": "8999908000200 ",
+    "nama_barang": "BODREX TAB LAPIS DUA 20 TABLET"
+  },
+  {
+    "kode_barang": "8999908000705 ",
+    "nama_barang": "BODREXIN 20 TABLET"
+  },
+  {
+    "kode_barang": "8999908000903 ",
+    "nama_barang": "FLUCYL 4TAB"
+  },
+  {
+    "kode_barang": "8999908001108 ",
+    "nama_barang": "FLUCYL SIRUP 60 ML"
+  },
+  {
+    "kode_barang": "8999908001207 ",
+    "nama_barang": "OBB OBAT BATUK 60ML"
+  },
+  {
+    "kode_barang": "8999908001603 ",
+    "nama_barang": "VIDORAN SYRUP RS JERUK 225ML"
+  },
+  {
+    "kode_barang": "8999908001801 ",
+    "nama_barang": "VIDORAN SIRUP RASA JERUK 120"
+  },
+  {
+    "kode_barang": "8999908002006 ",
+    "nama_barang": "PRITHO JUNIOR SOFT"
+  },
+  {
+    "kode_barang": "8999908005007 ",
+    "nama_barang": "VITAMIN B1 IPI 50TAB"
+  },
+  {
+    "kode_barang": "8999908005106 ",
+    "nama_barang": "VITAMIN B IPI 50TAB"
+  },
+  {
+    "kode_barang": "8999908005205 ",
+    "nama_barang": "VITAMIN C IPI 50TAB"
+  },
+  {
+    "kode_barang": "8999908005304 ",
+    "nama_barang": "VITAMIN B12 IPI 50TAB"
+  },
+  {
+    "kode_barang": "8999908005502 ",
+    "nama_barang": "VITAMIN A IPI 50TAB"
+  },
+  {
+    "kode_barang": "8999908006301 ",
+    "nama_barang": "F & N SODA WATER 330 ML"
+  },
+  {
+    "kode_barang": "8999908006400 ",
+    "nama_barang": "F & N COFFEE CREAM 330ML"
+  },
+  {
+    "kode_barang": "8999908006509 ",
+    "nama_barang": "F & N ORANGE 330 ML"
+  },
+  {
+    "kode_barang": "8999908006608 ",
+    "nama_barang": "F & N STRAWB 330 ML"
+  },
+  {
+    "kode_barang": "8999908006707 ",
+    "nama_barang": "F & N SARSI 330 ML"
+  },
+  {
+    "kode_barang": "8999908006806 ",
+    "nama_barang": "F & N KRIM SODA 330ML"
+  },
+  {
+    "kode_barang": "8999908006905 ",
+    "nama_barang": "F & N TONIC WATER 330ML"
+  },
+  {
+    "kode_barang": "8999908007803 ",
+    "nama_barang": "PRITHO JUN.FRUIT APEL"
+  },
+  {
+    "kode_barang": "8999908007902 ",
+    "nama_barang": "PRITHO JUNIOR SOFT STRAWB"
+  },
+  {
+    "kode_barang": "8999908008008 ",
+    "nama_barang": "PRITHO JUNIOR SOFT ORANGE"
+  },
+  {
+    "kode_barang": "8999908008107 ",
+    "nama_barang": "PRITHO SPESIAL"
+  },
+  {
+    "kode_barang": "8999908008305 ",
+    "nama_barang": "PRITHO DOUBLE ACTION"
+  },
+  {
+    "kode_barang": "8999908008503 ",
+    "nama_barang": "PRITHO SUPER SOFT TO MEDIUM"
+  },
+  {
+    "kode_barang": "8999908008909 ",
+    "nama_barang": "PRITHO FANTASTIC SOFT TO MEDIU"
+  },
+  {
+    "kode_barang": "8999908009203 ",
+    "nama_barang": "CLAUDIA BEAUTY HIJAU 80G"
+  },
+  {
+    "kode_barang": "8999908009302 ",
+    "nama_barang": "CLAUDIA BEAUTY WHITE 80G"
+  },
+  {
+    "kode_barang": "8999908009401 ",
+    "nama_barang": "CLAUDIA BEAUTY PINK 80G"
+  },
+  {
+    "kode_barang": "8999908009807 ",
+    "nama_barang": "MARINA MILK CLEANS 100M"
+  },
+  {
+    "kode_barang": "8999908009906 ",
+    "nama_barang": "MARINA FACE TONIC 100M"
+  },
+  {
+    "kode_barang": "8999908010001 ",
+    "nama_barang": "MARINA ASTRINGENT 100M"
+  },
+  {
+    "kode_barang": "8999908010100 ",
+    "nama_barang": "MARINA H&B LOT PINK 100M"
+  },
+  {
+    "kode_barang": "8999908010209 ",
+    "nama_barang": "MARINA H&B LOTION CREAM 100M"
+  },
+  {
+    "kode_barang": "8999908010308 ",
+    "nama_barang": "MARINA H&B LOTION ALOE V 100M"
+  },
+  {
+    "kode_barang": "8999908010407 ",
+    "nama_barang": "MARINA H&B LOTION PINK 200M"
+  },
+  {
+    "kode_barang": "8999908010506 ",
+    "nama_barang": "MARINA H&B LOTION CREAM 200M"
+  },
+  {
+    "kode_barang": "8999908010605 ",
+    "nama_barang": "MARINA H&B UV WHITE 100M"
+  },
+  {
+    "kode_barang": "8999908010704 ",
+    "nama_barang": "MARINA H&B UV WHITE 200M MULBE"
+  },
+  {
+    "kode_barang": "8999908028204 ",
+    "nama_barang": "REVLON H&B WHITE 350M"
+  },
+  {
+    "kode_barang": "8999908029607 ",
+    "nama_barang": "NATURAL HONEY HBL DRY 100ML"
+  },
+  {
+    "kode_barang": "8999908029706 ",
+    "nama_barang": "NATURAL HONEY HBL EXTRA 100ML"
+  },
+  {
+    "kode_barang": "8999908030108 ",
+    "nama_barang": "NATURAL HONEY HBL DRY 200ML"
+  },
+  {
+    "kode_barang": "8999908030207 ",
+    "nama_barang": "NATURAL HONEY HBL EXTRA 200ML"
+  },
+  {
+    "kode_barang": "8999908030306 ",
+    "nama_barang": "REVLON H&B ALOE VERA 200M"
+  },
+  {
+    "kode_barang": "8999908030603 ",
+    "nama_barang": "REVLON H&B NORM DRY SKIN 350M"
+  },
+  {
+    "kode_barang": "8999908030702 ",
+    "nama_barang": "REVLON H&B EXTR DRY SKIN 350M"
+  },
+  {
+    "kode_barang": "8999908030801 ",
+    "nama_barang": "NATURAL HONEY HBL WHITE 100ML"
+  },
+  {
+    "kode_barang": "8999908030900 ",
+    "nama_barang": "NATURAL HONEY HBL WHITE 200ML"
+  },
+  {
+    "kode_barang": "8999908031303 ",
+    "nama_barang": "CHARLIE DEO STICK ORIGIN 40G"
+  },
+  {
+    "kode_barang": "8999908032003 ",
+    "nama_barang": "REVLON ZP11 MENTHOL SHP AK 100"
+  },
+  {
+    "kode_barang": "8999908032102 ",
+    "nama_barang": "REVLON ZP11 MENTHOL SHP AK 200"
+  },
+  {
+    "kode_barang": "8999908034106 ",
+    "nama_barang": "VIDORAN SMART 30TAB"
+  },
+  {
+    "kode_barang": "8999908034205 ",
+    "nama_barang": "HEMAVITON ENERGI DRINK 150 ML"
+  },
+  {
+    "kode_barang": "8999908034601 ",
+    "nama_barang": "TOTALCARE JUNIOR ORANGE 50G"
+  },
+  {
+    "kode_barang": "8999908034700 ",
+    "nama_barang": "TOTALCARE JUNIOR STRAWB 50G"
+  },
+  {
+    "kode_barang": "8999908034908 ",
+    "nama_barang": "TOTAL CARE COOL MINT 100ML"
+  },
+  {
+    "kode_barang": "8999908037909 ",
+    "nama_barang": "PRITHO OPTIMA"
+  },
+  {
+    "kode_barang": "8999908039002 ",
+    "nama_barang": "CONTREX OBAT FLU 4 TABLET"
+  },
+  {
+    "kode_barang": "8999908039101 ",
+    "nama_barang": "CONTREXYN R JERUK 4TAB"
+  },
+  {
+    "kode_barang": "8999908039309 ",
+    "nama_barang": "OSKADON O S KEPALA 4TAB"
+  },
+  {
+    "kode_barang": "8999908040305 ",
+    "nama_barang": "MARINA FACE POWD IVORY 25GR"
+  },
+  {
+    "kode_barang": "8999908040404 ",
+    "nama_barang": "MARINA FACE POWD OLIVE 25GR"
+  },
+  {
+    "kode_barang": "8999908040503 ",
+    "nama_barang": "MARINA FACE POWD BEIGE 25GR"
+  },
+  {
+    "kode_barang": "8999908040602 ",
+    "nama_barang": "MARINA FACE POWD NATURAL 25GR"
+  },
+  {
+    "kode_barang": "8999908040701 ",
+    "nama_barang": "MARINA FACE POWD IVORY 40GR"
+  },
+  {
+    "kode_barang": "8999908040800 ",
+    "nama_barang": "MARINA FACE POWD OLIVE 40GR"
+  },
+  {
+    "kode_barang": "8999908040909 ",
+    "nama_barang": "MARINA FACE POWD BEIGE 40GR"
+  },
+  {
+    "kode_barang": "8999908041005 ",
+    "nama_barang": "MARINA FACE POWD NATURAL 40GR"
+  },
+  {
+    "kode_barang": "8999908041104 ",
+    "nama_barang": "MARINA COMP POWD IVORY 12GR"
+  },
+  {
+    "kode_barang": "8999908041203 ",
+    "nama_barang": "MARINA COMP POWD OLIVE 12GR"
+  },
+  {
+    "kode_barang": "8999908041302 ",
+    "nama_barang": "MARINA COMPACT POWDER 03 BEIGE"
+  },
+  {
+    "kode_barang": "8999908041401 ",
+    "nama_barang": "MARINA COMP POWD NATURAL 12GR"
+  },
+  {
+    "kode_barang": "8999908042002 ",
+    "nama_barang": "VIDORAN VISION RS JERUK 30TAB"
+  },
+  {
+    "kode_barang": "8999908042408 ",
+    "nama_barang": "MY BABY POWDER 50 GR"
+  },
+  {
+    "kode_barang": "8999908042507 ",
+    "nama_barang": "MY BABY POWDER 150G"
+  },
+  {
+    "kode_barang": "8999908042606 ",
+    "nama_barang": "MY BABY POWDER 250G"
+  },
+  {
+    "kode_barang": "8999908042705 ",
+    "nama_barang": "MY BABY POWDER 350G"
+  },
+  {
+    "kode_barang": "8999908042804 ",
+    "nama_barang": "MY BABY POWDER BIANG K 150G"
+  },
+  {
+    "kode_barang": "8999908043009 ",
+    "nama_barang": "MY BABY SOAP 80G"
+  },
+  {
+    "kode_barang": "8999908043108 ",
+    "nama_barang": "MY BABY SOAP 100G"
+  },
+  {
+    "kode_barang": "8999908043207 ",
+    "nama_barang": "MY BABY SHAMPO 50ML"
+  },
+  {
+    "kode_barang": "8999908043306 ",
+    "nama_barang": "MY BABY BB SHAMPOO 100M"
+  },
+  {
+    "kode_barang": "8999908043504 ",
+    "nama_barang": "MY BABY BB OIL 100M"
+  },
+  {
+    "kode_barang": "8999908043702 ",
+    "nama_barang": "MY BABY BB LOTION 100M"
+  },
+  {
+    "kode_barang": "8999908043801 ",
+    "nama_barang": "OSKADON SP 4 TABLET"
+  },
+  {
+    "kode_barang": "8999908044006 ",
+    "nama_barang": "MY BABY MINYAK TELON 60 ML"
+  },
+  {
+    "kode_barang": "8999908044105 ",
+    "nama_barang": "MARINA SPL COL ROMANTIC 50M"
+  },
+  {
+    "kode_barang": "8999908044204 ",
+    "nama_barang": "MARINA SPL COL JAZZ 50ML"
+  },
+  {
+    "kode_barang": "8999908044303 ",
+    "nama_barang": "MARINA SPL COL HIP HOP POP 50M"
+  },
+  {
+    "kode_barang": "8999908044402 ",
+    "nama_barang": "MARINA SPL COL ROMANTIC 100M"
+  },
+  {
+    "kode_barang": "8999908044501 ",
+    "nama_barang": "MARINA SPL COL JAZZY JAZZ 100M"
+  },
+  {
+    "kode_barang": "8999908044600 ",
+    "nama_barang": "MARINA SPL COL HIP HOP POP 100"
+  },
+  {
+    "kode_barang": "8999908044709 ",
+    "nama_barang": "MARINA TALC ROMANTIC 50GR"
+  },
+  {
+    "kode_barang": "8999908044808 ",
+    "nama_barang": "MARINA TALC EXOTIC 50GR"
+  },
+  {
+    "kode_barang": "8999908044907 ",
+    "nama_barang": "MARINA TALK INNOCENT 50GR"
+  },
+  {
+    "kode_barang": "8999908045409 ",
+    "nama_barang": "MARINA UV WHITE MOIST 50ML"
+  },
+  {
+    "kode_barang": "8999908045607 ",
+    "nama_barang": "MARINA H&B FRESH HONEY 100M"
+  },
+  {
+    "kode_barang": "8999908045706 ",
+    "nama_barang": "MARINA H&B FRESH HONEY 200M"
+  },
+  {
+    "kode_barang": "8999908045805 ",
+    "nama_barang": "HEMAVITON JRENG BOX 10X4 GR"
+  },
+  {
+    "kode_barang": "8999908045812 ",
+    "nama_barang": "HEMAVITON JRENG 4G"
+  },
+  {
+    "kode_barang": "8999908045904 ",
+    "nama_barang": "MY BABY PAKET TAS"
+  },
+  {
+    "kode_barang": "8999908046000 ",
+    "nama_barang": "TOTALCARE ANTBACTREIAL GEL 60G"
+  },
+  {
+    "kode_barang": "8999908046109 ",
+    "nama_barang": "TOTALCARE BACTERIAL GEL 95GR"
+  },
+  {
+    "kode_barang": "8999908046604 ",
+    "nama_barang": "REVLON FLEX SHAM NOURISH 100M"
+  },
+  {
+    "kode_barang": "8999908046703 ",
+    "nama_barang": "REVLON FLEX SHAM PURIFY 100M"
+  },
+  {
+    "kode_barang": "8999908046802 ",
+    "nama_barang": "REVLON FLEX SHAM VOLUMIS 100M"
+  },
+  {
+    "kode_barang": "8999908046901 ",
+    "nama_barang": "REVLON FLEX SHAM REVITAL 100M"
+  },
+  {
+    "kode_barang": "8999908047106 ",
+    "nama_barang": "REVLON FLEX SHP NOURIS 350 ML"
+  },
+  {
+    "kode_barang": "8999908047205 ",
+    "nama_barang": "REVLON FLEX SHP PURIFYI 350 ML"
+  },
+  {
+    "kode_barang": "8999908047304 ",
+    "nama_barang": "REVLON FLEX SHP VOLUMI 350 ML"
+  },
+  {
+    "kode_barang": "8999908047403 ",
+    "nama_barang": "REVLON FLEX SHP REVITAL 350 ML"
+  },
+  {
+    "kode_barang": "8999908047601 ",
+    "nama_barang": "REVLON FLEX COND NOURIS 100"
+  },
+  {
+    "kode_barang": "8999908047809 ",
+    "nama_barang": "REVLON FLEX SHAM VOLUMIZ 100M"
+  },
+  {
+    "kode_barang": "8999908047908 ",
+    "nama_barang": "REVLON FLEX COND REVITAL 100"
+  },
+  {
+    "kode_barang": "8999908048103 ",
+    "nama_barang": "REVLON FLEX SHAM NOURISH 200M"
+  },
+  {
+    "kode_barang": "8999908049001 ",
+    "nama_barang": "CHARLIE ROLL ON DEO BLUE 50M"
+  },
+  {
+    "kode_barang": "8999908049100 ",
+    "nama_barang": "CHARLIE DEO ROLL ON RED 50M"
+  },
+  {
+    "kode_barang": "8999908049209 ",
+    "nama_barang": "CHARLIE ROLL ON DEO WHITE 50M"
+  },
+  {
+    "kode_barang": "8999908049308 ",
+    "nama_barang": "CHARLIE ROLL ON DEO GOLD 50M"
+  },
+  {
+    "kode_barang": "8999908050205 ",
+    "nama_barang": "MARINA SOAP CHARMING 75G"
+  },
+  {
+    "kode_barang": "8999908050304 ",
+    "nama_barang": "MARINA SOAP ENERGIC 75G"
+  },
+  {
+    "kode_barang": "8999908050403 ",
+    "nama_barang": "MARINA SOAP CHIC 75G"
+  },
+  {
+    "kode_barang": "8999908050601 ",
+    "nama_barang": "NEO RHEUMACYL CREAM 30GR"
+  },
+  {
+    "kode_barang": "8999908050908 ",
+    "nama_barang": "PRITHO DIAMOND SOFT TO MEDIUM"
+  },
+  {
+    "kode_barang": "8999908051608 ",
+    "nama_barang": "F & N BUAH-BUAHAN 330 ML"
+  },
+  {
+    "kode_barang": "8999908051707 ",
+    "nama_barang": "F & N ZAPPEL 330 ML"
+  },
+  {
+    "kode_barang": "8999908051806 ",
+    "nama_barang": "F & N ANGGUR 330 ML"
+  },
+  {
+    "kode_barang": "8999908052001 ",
+    "nama_barang": "MARINA HAND BODY FRUITY 100 ML"
+  },
+  {
+    "kode_barang": "8999908052100 ",
+    "nama_barang": "MARINA HAND BODY FLORAL 100 ML"
+  },
+  {
+    "kode_barang": "8999908052209 ",
+    "nama_barang": "MARINA COLOGNE GEL LOVELY 50M"
+  },
+  {
+    "kode_barang": "8999908052306 ",
+    "nama_barang": "MARINA COLOGNE GEL CARING 50M"
+  },
+  {
+    "kode_barang": "8999908052308 ",
+    "nama_barang": "MARINA COLOGNE GEL LOVELY 50M"
+  },
+  {
+    "kode_barang": "8999908052407 ",
+    "nama_barang": "MARINA COLOGNE GEL HAPPY 50ML"
+  },
+  {
+    "kode_barang": "8999908052506 ",
+    "nama_barang": "MARINA COLOGNE GEL LOVELY 100M"
+  },
+  {
+    "kode_barang": "8999908052605 ",
+    "nama_barang": "MARINA COLOGNE GEL CARING 100M"
+  },
+  {
+    "kode_barang": "8999908052704 ",
+    "nama_barang": "MARINA COLOGNE GEL HAPPY 100M"
+  },
+  {
+    "kode_barang": "8999908052803 ",
+    "nama_barang": "MARINA SWEET COMP WHITE 14 GR"
+  },
+  {
+    "kode_barang": "8999908052902 ",
+    "nama_barang": "MARINA SWEET COMP POWD IVO 14G"
+  },
+  {
+    "kode_barang": "8999908053008 ",
+    "nama_barang": "MARINA SWEET COMP PEACH 14 GR"
+  },
+  {
+    "kode_barang": "8999908053206 ",
+    "nama_barang": "PRITHO DIAMOND HELM"
+  },
+  {
+    "kode_barang": "8999908053305 ",
+    "nama_barang": "PRITHO PANTASTIC HELM"
+  },
+  {
+    "kode_barang": "8999908053404 ",
+    "nama_barang": "PRITHO DIAMOND FAMILI PACK"
+  },
+  {
+    "kode_barang": "8999908053800 ",
+    "nama_barang": "MY BABY POWDER SWEET FL 50G"
+  },
+  {
+    "kode_barang": "8999908053909 ",
+    "nama_barang": "MY BABY SWEET FLORAL 150G"
+  },
+  {
+    "kode_barang": "8999908054005 ",
+    "nama_barang": "MY BABY POWDER SWEET F 250G"
+  },
+  {
+    "kode_barang": "8999908054104 ",
+    "nama_barang": "MY BABY POWDER SWEET F 350G"
+  },
+  {
+    "kode_barang": "8999908054203 ",
+    "nama_barang": "MY BABY SOAP SWEET FLORAL 80G"
+  },
+  {
+    "kode_barang": "8999908054302 ",
+    "nama_barang": "MY BABY SOAP SWEET FLORAL 100G"
+  },
+  {
+    "kode_barang": "8999908056207 ",
+    "nama_barang": "HEMAVITON CAP 5 S"
+  },
+  {
+    "kode_barang": "8999908056603 ",
+    "nama_barang": "DIACYL TABLET 4 TABLET"
+  },
+  {
+    "kode_barang": "8999908057105 ",
+    "nama_barang": "NEO HORMOVITON 5KAP"
+  },
+  {
+    "kode_barang": "8999908057303 ",
+    "nama_barang": "VIDORAN PLUS 120 ML"
+  },
+  {
+    "kode_barang": "8999908057709 ",
+    "nama_barang": "BODREX FLU & BATUK 4 KAPLET"
+  },
+  {
+    "kode_barang": "8999908057907 ",
+    "nama_barang": "NEO HORMOVITON GRENG 10X4,2GR"
+  },
+  {
+    "kode_barang": "8999908058003 ",
+    "nama_barang": "HORMOVITON GRENG SACHET"
+  },
+  {
+    "kode_barang": "8999908058102 ",
+    "nama_barang": "BODREXIN SRP JR MANIS 56ML"
+  },
+  {
+    "kode_barang": "8999908058201 ",
+    "nama_barang": "MY BABY KIT CLASSIC PAKET BSR"
+  },
+  {
+    "kode_barang": "8999908058607 ",
+    "nama_barang": "CLAUDIA BEAUTY + LEMON 80GR"
+  },
+  {
+    "kode_barang": "8999908058706 ",
+    "nama_barang": "CLAUDIA BEAUTY + APPLE 80GR"
+  },
+  {
+    "kode_barang": "8999908058805 ",
+    "nama_barang": "CLAUDIA BEAUTY + PEACH 80GR"
+  },
+  {
+    "kode_barang": "8999908058904 ",
+    "nama_barang": "MARINA SOAP FUNKY BERRY 80 GR"
+  },
+  {
+    "kode_barang": "8999908059000 ",
+    "nama_barang": "MARINA SOAP JAZZY ORENZ 80 GR"
+  },
+  {
+    "kode_barang": "8999908059109 ",
+    "nama_barang": "HEMAVITON HEALTH DRINK 150ML"
+  },
+  {
+    "kode_barang": "8999908059208 ",
+    "nama_barang": "HEMAVITON ECHINACEA PLUS"
+  },
+  {
+    "kode_barang": "8999908059307 ",
+    "nama_barang": "HEMAVITON ECHINACEA + 4GR"
+  },
+  {
+    "kode_barang": "8999908059314 ",
+    "nama_barang": "HEMAVITON ECHINACEA PLUS 10SCT"
+  },
+  {
+    "kode_barang": "8999908059406 ",
+    "nama_barang": "TOTALCARE JUNIOR CHOCO CHIP 50"
+  },
+  {
+    "kode_barang": "8999908059604 ",
+    "nama_barang": "MY BABY SOAP F FRUITY 80GR"
+  },
+  {
+    "kode_barang": "8999908059703 ",
+    "nama_barang": "MY BABY SOAP FRESH FRUITY 100G"
+  },
+  {
+    "kode_barang": "8999908059802 ",
+    "nama_barang": "MY BABY POWDER F FRUITY 50GR"
+  },
+  {
+    "kode_barang": "8999908059901 ",
+    "nama_barang": "MY BABY POWD F FRUITY 150G"
+  },
+  {
+    "kode_barang": "8999908060006 ",
+    "nama_barang": "MY BABY POWDER F FRUITY 250G"
+  },
+  {
+    "kode_barang": "8999908060105 ",
+    "nama_barang": "MY BABY POWDER F FRUITY 350G"
+  },
+  {
+    "kode_barang": "8999908060204 ",
+    "nama_barang": "MY BABY SKIN PROTECTIVE LOT 50"
+  },
+  {
+    "kode_barang": "8999908060402 ",
+    "nama_barang": "MY BABY COLOGNE 100ML"
+  },
+  {
+    "kode_barang": "8999908060501 ",
+    "nama_barang": "MY BABY COLOGNE GEL PINK 100ML"
+  },
+  {
+    "kode_barang": "8999908060600 ",
+    "nama_barang": "MARINA HBL NAT CHAMOMILE 100ML"
+  },
+  {
+    "kode_barang": "8999908060709 ",
+    "nama_barang": "MARINA HBL NAT GINGSENG 100ML"
+  },
+  {
+    "kode_barang": "8999908060808 ",
+    "nama_barang": "MARINA HBL NAT GREEN TEA 100ML"
+  },
+  {
+    "kode_barang": "8999908060907 ",
+    "nama_barang": "MARINA HBL NAT CHAMOMILE 200ML"
+  },
+  {
+    "kode_barang": "8999908061003 ",
+    "nama_barang": "MARINA HBL NAT GINSENG 200ML"
+  },
+  {
+    "kode_barang": "8999908061102 ",
+    "nama_barang": "MARINA HBL NAT HONEY 200ML"
+  },
+  {
+    "kode_barang": "8999908062000 ",
+    "nama_barang": "VIDORAN SRP RS JERUK 120ML"
+  },
+  {
+    "kode_barang": "8999908070906 ",
+    "nama_barang": "CLAUDIA SOAP PINK 4+KOTAK SBN"
+  },
+  {
+    "kode_barang": "8999908071309 ",
+    "nama_barang": "CLAUDIA SOAP BIRU 4+KOTAK SBN"
+  },
+  {
+    "kode_barang": "8999908071903 ",
+    "nama_barang": "BODREX MIGRA 4KAPLET"
+  },
+  {
+    "kode_barang": "8999908072207 ",
+    "nama_barang": "BODREXIN EFFERVECENT 2GR"
+  },
+  {
+    "kode_barang": "8999908072405 ",
+    "nama_barang": "PRITHO D ACTION PLUS"
+  },
+  {
+    "kode_barang": "8999908072504 ",
+    "nama_barang": "PRITHO SPECIAL EXPRESS HELM"
+  },
+  {
+    "kode_barang": "8999908072603 ",
+    "nama_barang": "PRITHO D ACTION HELM"
+  },
+  {
+    "kode_barang": "8999908079602 ",
+    "nama_barang": "SOS PEMBERSIH LANTAI APL 1600M"
+  },
+  {
+    "kode_barang": "8999908079701 ",
+    "nama_barang": "SOS PEMBERSIH LANTAI LMN 1600M"
+  },
+  {
+    "kode_barang": "8999908079800 ",
+    "nama_barang": "SOS LANTAI ORANGE 1600 REFIL"
+  },
+  {
+    "kode_barang": "8999908081605 ",
+    "nama_barang": "POWERFIT COKLAT 250 G"
+  },
+  {
+    "kode_barang": "8999908082602 ",
+    "nama_barang": "MY BABY POWDER PRICKLY HEAT 50"
+  },
+  {
+    "kode_barang": "8999908082701 ",
+    "nama_barang": "MARINA UV WHITE 100ML"
+  },
+  {
+    "kode_barang": "8999908082800 ",
+    "nama_barang": "MARINA HBL UV WHITE 200ML MILK"
+  },
+  {
+    "kode_barang": "8999908084309 ",
+    "nama_barang": "MARINA SPLASH COLOG DANCIN 100"
+  },
+  {
+    "kode_barang": "8999908192509 ",
+    "nama_barang": "BODREX FLU&BATUK 10 S"
+  },
+  {
+    "kode_barang": "8999908203502 ",
+    "nama_barang": "PRITHO DOUBLE ACTION HEMAT"
+  },
+  {
+    "kode_barang": "8999908204202 ",
+    "nama_barang": "MY BABY MY TELON PLUS 60ML"
+  },
+  {
+    "kode_barang": "8999908204400 ",
+    "nama_barang": "MY BABY COLOGNE FF 100 ML"
+  },
+  {
+    "kode_barang": "8999908204806 ",
+    "nama_barang": "MY BABY SHAMPOO 200 ML"
+  },
+  {
+    "kode_barang": "8999908205308 ",
+    "nama_barang": "MARINA SPLAS COLOG DANCIN 50ML"
+  },
+  {
+    "kode_barang": "8999908205506 ",
+    "nama_barang": "HEMAVITON STAMINA PLUS 5S"
+  },
+  {
+    "kode_barang": "8999908205704 ",
+    "nama_barang": "TOTAL CARE COOL MINT 250ML"
+  },
+  {
+    "kode_barang": "8999908206800 ",
+    "nama_barang": "HEMAVITON JRENG COLA 10X4GR"
+  },
+  {
+    "kode_barang": "8999908207005 ",
+    "nama_barang": "HEMAVITON JRENG LEMON 10X4GR"
+  },
+  {
+    "kode_barang": "8999908207104 ",
+    "nama_barang": "HEMAVITON JRENG LEMON 4GR"
+  },
+  {
+    "kode_barang": "8999908207500 ",
+    "nama_barang": "MY BABY FABRIC SOFT BLUE 900ML"
+  },
+  {
+    "kode_barang": "8999908207609 ",
+    "nama_barang": "MY BABY FABRIC SOFT BLUE 1800M"
+  },
+  {
+    "kode_barang": "8999908207807 ",
+    "nama_barang": "MY BABY FABRIC SOFT PINK 900ML"
+  },
+  {
+    "kode_barang": "8999908207906 ",
+    "nama_barang": "MY BABY FABRIC SOFT PINK 1800M"
+  },
+  {
+    "kode_barang": "8999908208101 ",
+    "nama_barang": "MY BABY POWDER CHAMOMILE 100G"
+  },
+  {
+    "kode_barang": "8999908208200 ",
+    "nama_barang": "MY BABY POWDER FLORAL 100GR"
+  },
+  {
+    "kode_barang": "8999908208309 ",
+    "nama_barang": "MY BABY POWDER FRESH FRUIT 100"
+  },
+  {
+    "kode_barang": "8999908208408 ",
+    "nama_barang": "MY BABY MILK SOAP 100+SHP 50"
+  },
+  {
+    "kode_barang": "8999908208705 ",
+    "nama_barang": "MY BABY MILK SOAP100+SHP50 PIN"
+  },
+  {
+    "kode_barang": "8999908209702 ",
+    "nama_barang": "BODREXIN FLU&BATUK 56ML SYRUP"
+  },
+  {
+    "kode_barang": "8999908210005 ",
+    "nama_barang": "HEMAVITON ACTION 5 S"
+  },
+  {
+    "kode_barang": "8999908210500 ",
+    "nama_barang": "MARINA WHITE TWC FP 01"
+  },
+  {
+    "kode_barang": "8999908210609 ",
+    "nama_barang": "VIDORAN PLUS RASA JERUK 225ML"
+  },
+  {
+    "kode_barang": "8999908212207 ",
+    "nama_barang": "MARINA WHITE TWC FN 02"
+  },
+  {
+    "kode_barang": "8999908212306 ",
+    "nama_barang": "MARINA WHITE FAC FOAM 40ML"
+  },
+  {
+    "kode_barang": "8999908212405 ",
+    "nama_barang": "VIDORAN SMART PLUS 120 ML"
+  },
+  {
+    "kode_barang": "8999908214409 ",
+    "nama_barang": "MARINA COLOGNE SPRY PINK 100"
+  },
+  {
+    "kode_barang": "8999908214607 ",
+    "nama_barang": "MARINA COLOGNE SPRY UNGU 100"
+  },
+  {
+    "kode_barang": "8999908214706 ",
+    "nama_barang": "MARINA HAND BODY AVOCADO 100M"
+  },
+  {
+    "kode_barang": "8999908214805 ",
+    "nama_barang": "MARINA NATURAL HBL AVOCAD 200M"
+  },
+  {
+    "kode_barang": "8999908217400 ",
+    "nama_barang": "HEMAVITON JRENG MANGGA 4GR"
+  },
+  {
+    "kode_barang": "8999908218803 ",
+    "nama_barang": "HEMAVITON ENERGY DRINK 330ML"
+  },
+  {
+    "kode_barang": "8999908218902 ",
+    "nama_barang": "HEMAVITON E DRINK COLA 330ML"
+  },
+  {
+    "kode_barang": "8999908243201 ",
+    "nama_barang": "MY BABY SHAMPO REFIL 200ML"
+  },
+  {
+    "kode_barang": "8999908243300 ",
+    "nama_barang": "MY BABY MILK SOAP 100 ML"
+  },
+  {
+    "kode_barang": "8999908243409 ",
+    "nama_barang": "MY BABY MILK SOAP SF 100 ML"
+  },
+  {
+    "kode_barang": "8999908243508 ",
+    "nama_barang": "MY BABY SKIN PROTECTIVE LOT100"
+  },
+  {
+    "kode_barang": "8999908243607 ",
+    "nama_barang": "MY BABY VAPOR RUB 50"
+  },
+  {
+    "kode_barang": "8999908244000 ",
+    "nama_barang": "VITON ISOTONIC DRINK GUAVA 330"
+  },
+  {
+    "kode_barang": "8999908244109 ",
+    "nama_barang": "VITON ISOTONIC DRINK LEMON 330"
+  },
+  {
+    "kode_barang": "8999908244208 ",
+    "nama_barang": "MARINA WHITE BODY WASH 100ML"
+  },
+  {
+    "kode_barang": "8999908244307 ",
+    "nama_barang": "MARINA NTR HONEY BERRY BW 100"
+  },
+  {
+    "kode_barang": "8999908250803 ",
+    "nama_barang": "BODREX FLU & BATUK BERDAHAK 60"
+  },
+  {
+    "kode_barang": "8999908251008 ",
+    "nama_barang": "MARINA HBL TOTAL CARE 100"
+  },
+  {
+    "kode_barang": "8999908251107 ",
+    "nama_barang": "MARINA HBL TOTAL CARE 200"
+  },
+  {
+    "kode_barang": "8999908251206 ",
+    "nama_barang": "SOS WASH PENC PIRING LIME 800M"
+  },
+  {
+    "kode_barang": "8999908251305 ",
+    "nama_barang": "SOS WASH PENC PIRING LMN 800ML"
+  },
+  {
+    "kode_barang": "8999908255808 ",
+    "nama_barang": "TOTAL CARE LEMON ICE 100ML"
+  },
+  {
+    "kode_barang": "8999908255907 ",
+    "nama_barang": "TOTAL CARE LEMON ICE 250ML"
+  },
+  {
+    "kode_barang": "8999908258700 ",
+    "nama_barang": "VIDORAN EMILSION JERUK 200GR"
+  },
+  {
+    "kode_barang": "8999908260208 ",
+    "nama_barang": "NEO HORMOVITON 150"
+  },
+  {
+    "kode_barang": "8999908260710 ",
+    "nama_barang": "HEMAVITON C1000 5SCTX4GR"
+  },
+  {
+    "kode_barang": "8999908260802 ",
+    "nama_barang": "HEMAVITON C1000 150ML"
+  },
+  {
+    "kode_barang": "8999908264107 ",
+    "nama_barang": "SOS KARBOL EXTRA STRONG 800ML"
+  },
+  {
+    "kode_barang": "8999908264206 ",
+    "nama_barang": "SOS KARBOL CLASSIC PINE 1800ML"
+  },
+  {
+    "kode_barang": "8999908264503 ",
+    "nama_barang": "SOS KARBOL LEMON 800ML"
+  },
+  {
+    "kode_barang": "8999908264602 ",
+    "nama_barang": "SOS KARBOL LEMON PINE 1800ML"
+  },
+  {
+    "kode_barang": "8999908265203 ",
+    "nama_barang": "MY BABY HAIR LOTION FF 100 ML"
+  },
+  {
+    "kode_barang": "8999908266002 ",
+    "nama_barang": "MARINA UV WHITE MULBERRY 500ML"
+  },
+  {
+    "kode_barang": "8999908266101 ",
+    "nama_barang": "MARINA UV WHITE MILK 500ML"
+  },
+  {
+    "kode_barang": "8999908266804 ",
+    "nama_barang": "CLAUDIA SHOWER LOT SILKY 200ML"
+  },
+  {
+    "kode_barang": "8999908266903 ",
+    "nama_barang": "CLAUDIA SHOWER LOT SUNCARE 200"
+  },
+  {
+    "kode_barang": "8999908267009 ",
+    "nama_barang": "CLAUDIA SHOWER LOT CREAMY 200M"
+  },
+  {
+    "kode_barang": "8999908267900 ",
+    "nama_barang": "SOS WASH PENC PIRING LEMON 400"
+  },
+  {
+    "kode_barang": "8999908268006 ",
+    "nama_barang": "SOS ABT CUCI PIRING LIME 400 M"
+  },
+  {
+    "kode_barang": "8999908270702 ",
+    "nama_barang": "HEMAVITON JRENG ANGGUR 4GR"
+  },
+  {
+    "kode_barang": "8999908270801 ",
+    "nama_barang": "HEMAVITON JRENG ANGGUR 6 SCT"
+  },
+  {
+    "kode_barang": "8999908271006 ",
+    "nama_barang": "HEMAVITON JRENG LEMON 6 SCT"
+  },
+  {
+    "kode_barang": "8999908271204 ",
+    "nama_barang": "HEMAVITON JRENG MANGGA 6 SCT"
+  },
+  {
+    "kode_barang": "8999908271907 ",
+    "nama_barang": "MARINA COLOGNE SPRY BIRU 100"
+  },
+  {
+    "kode_barang": "8999908273000 ",
+    "nama_barang": "MARINA NATURAL APPLE 350ML"
+  },
+  {
+    "kode_barang": "8999908273109 ",
+    "nama_barang": "MARINA NATURAL GINSENG 350ML"
+  },
+  {
+    "kode_barang": "8999908273208 ",
+    "nama_barang": "MARINA NATURAL SOFTENING 350ML"
+  },
+  {
+    "kode_barang": "8999908273307 ",
+    "nama_barang": "MARINA NATURAL AVOCADO 350ML"
+  },
+  {
+    "kode_barang": "8999908284907 ",
+    "nama_barang": "MY BABY MINYAK TELON PLUS 90"
+  },
+  {
+    "kode_barang": "8999908285003 ",
+    "nama_barang": "BODREX EXTRA 25"
+  },
+  {
+    "kode_barang": "8999908285201 ",
+    "nama_barang": "NOLANTA OBAT KEMBUNG"
+  },
+  {
+    "kode_barang": "8999908285904 ",
+    "nama_barang": "HEMAVITON ENERGY ANGGUR 150ML"
+  },
+  {
+    "kode_barang": "8999908286109 ",
+    "nama_barang": "HEMAFITON ENERGY RASA ANGGUR"
+  },
+  {
+    "kode_barang": "8999908286307 ",
+    "nama_barang": "SOS HAND SOAP STRW 300 R"
+  },
+  {
+    "kode_barang": "8999908286406 ",
+    "nama_barang": "SOS HAND SOAP MELON 300R"
+  },
+  {
+    "kode_barang": "8999908286505 ",
+    "nama_barang": "SOS HAND SOAP STWB 300 ML"
+  },
+  {
+    "kode_barang": "8999908286604 ",
+    "nama_barang": "SOS HANDSOAP MELON BTL 300 ML"
+  },
+  {
+    "kode_barang": "8999908296108 ",
+    "nama_barang": "HEMAVITON SKIN NUTRIENT 5 KAP"
+  },
+  {
+    "kode_barang": "8999908300607 ",
+    "nama_barang": "HEMAVITO COFFEE CREAM 330 ML"
+  },
+  {
+    "kode_barang": "8999908302502 ",
+    "nama_barang": "TOTAL CARE 250 ML ACTIONS"
+  },
+  {
+    "kode_barang": "8999908318206 ",
+    "nama_barang": "MY BABY POWDER FF 500 G"
+  },
+  {
+    "kode_barang": "8999909001909 ",
+    "nama_barang": "DJI SAM SOE MAGNUM FILTER 12"
+  },
+  {
+    "kode_barang": "8999909002296 ",
+    "nama_barang": "DJI SAM SOE MASTERPIECE 12"
+  },
+  {
+    "kode_barang": "8999909002647 ",
+    "nama_barang": "DJI SAM SOE MASTERPIECE 12"
+  },
+  {
+    "kode_barang": "8999909002791 ",
+    "nama_barang": "MARBOROL FILTER MILENIUM"
+  },
+  {
+    "kode_barang": "8999909003286 ",
+    "nama_barang": "MARBOROLIGHT MILENIUM"
+  },
+  {
+    "kode_barang": "8999909003880 ",
+    "nama_barang": "DJI SAM SOE GOLD 12"
+  },
+  {
+    "kode_barang": "8999909009325 ",
+    "nama_barang": "SAMPOERNA EXCLUSIVE"
+  },
+  {
+    "kode_barang": "8999909010567 ",
+    "nama_barang": "DJI SAM SOE 16"
+  },
+  {
+    "kode_barang": "8999909012097 ",
+    "nama_barang": "DJI SAMSOE 10"
+  },
+  {
+    "kode_barang": "8999909028234 ",
+    "nama_barang": "DJI SAM SOE 12"
+  },
+  {
+    "kode_barang": "8999909028999 ",
+    "nama_barang": "DJI SAM SOE SUPER PERMIUM RFL"
+  },
+  {
+    "kode_barang": "8999909034570 ",
+    "nama_barang": "DJI SAM SOE 16 TUBE"
+  },
+  {
+    "kode_barang": "8999909039124 ",
+    "nama_barang": "PANAMAS 1 12"
+  },
+  {
+    "kode_barang": "8999909039988 ",
+    "nama_barang": "SAMPOERNA HIJAU 12 KTK"
+  },
+  {
+    "kode_barang": "8999909055063 ",
+    "nama_barang": "SAMPOERNA MENTHOL 12"
+  },
+  {
+    "kode_barang": "8999909076006 ",
+    "nama_barang": "SAMPOERNA A MILD MENTHOL 16"
+  },
+  {
+    "kode_barang": "8999909085114 ",
+    "nama_barang": "SAMPOERNA HIJAU 12 BKS"
+  },
+  {
+    "kode_barang": "8999909096004 ",
+    "nama_barang": "SAMPOERNA MILD 16"
+  },
+  {
+    "kode_barang": "899990912097 ",
+    "nama_barang": "DJI SAM SOE 10"
+  },
+  {
+    "kode_barang": "8999909424999 ",
+    "nama_barang": "SAMPOERNA SLOP"
+  },
+  {
+    "kode_barang": "8999909706699 ",
+    "nama_barang": "DJI SAM SOE FILTER 12"
+  },
+  {
+    "kode_barang": "8999909957565 ",
+    "nama_barang": "DJI SAM SOE SUPER PERMIUM 12"
+  },
+  {
+    "kode_barang": "8999909982000 ",
+    "nama_barang": "SAMPOERNA MILD 12"
+  },
+  {
+    "kode_barang": "8999918181081 ",
+    "nama_barang": "AIM ROASTED CHICKEN CRACK 180"
+  },
+  {
+    "kode_barang": "8999918181180 ",
+    "nama_barang": "AIM CORN CRACK 180G"
+  },
+  {
+    "kode_barang": "8999918181289 ",
+    "nama_barang": "AIM CORN CRACK 80G"
+  },
+  {
+    "kode_barang": "8999918181388 ",
+    "nama_barang": "AIM CHOCO CREAM M BEDA 120GR"
+  },
+  {
+    "kode_barang": "8999918181685 ",
+    "nama_barang": "AIM CRYSPI CRACK 150G"
+  },
+  {
+    "kode_barang": "8999918181883 ",
+    "nama_barang": "AIM BISK SQUARE PUFF 250G"
+  },
+  {
+    "kode_barang": "8999918182187 ",
+    "nama_barang": "AIM TOASTY CHEESE 180G"
+  },
+  {
+    "kode_barang": "8999918182286 ",
+    "nama_barang": "AIM BISC VEGETABLE 180GR"
+  },
+  {
+    "kode_barang": "8999918182682 ",
+    "nama_barang": "AIM VANILLA CREAM BISK"
+  },
+  {
+    "kode_barang": "8999918182781 ",
+    "nama_barang": "AIM LEMON CREAM M BEDA 120GR"
+  },
+  {
+    "kode_barang": "8999918182989 ",
+    "nama_barang": "AIM CHEESE CRACK 80G"
+  },
+  {
+    "kode_barang": "8999918183085 ",
+    "nama_barang": "AIM BUTTER COCONUT 120GR"
+  },
+  {
+    "kode_barang": "8999918282887 ",
+    "nama_barang": "AIM BANANA CREAM M BEDA 120GR"
+  },
+  {
+    "kode_barang": "8999918383188 ",
+    "nama_barang": "ANEKA BISK CREAM CRACKER 300G"
+  },
+  {
+    "kode_barang": "8999918383980 ",
+    "nama_barang": "AIM PEANUT BUTTER 70G"
+  },
+  {
+    "kode_barang": "8999918411010 ",
+    "nama_barang": "AIM GOOD MORNING WAFER 300GR"
+  },
+  {
+    "kode_barang": "8999918435016 ",
+    "nama_barang": "AIM RASA DURIAN 350GR KLG"
+  },
+  {
+    "kode_barang": "8999918435023 ",
+    "nama_barang": "AIM RASA COCONUT 350GR KLG"
+  },
+  {
+    "kode_barang": "8999918441208 ",
+    "nama_barang": "AIM GOOD MORNING WAFER 100G"
+  },
+  {
+    "kode_barang": "8999918441284 ",
+    "nama_barang": "AIM CREAM CRACKERS M BEDA 85GR"
+  },
+  {
+    "kode_barang": "8999918441345 ",
+    "nama_barang": "MASTERBIS PEANUT CREAM"
+  },
+  {
+    "kode_barang": "8999918441376 ",
+    "nama_barang": "AIM GOOD SQUARE PUFF 85GR"
+  },
+  {
+    "kode_barang": "8999918441383 ",
+    "nama_barang": "AIM TOASTY CHEESE CRACK 30GR"
+  },
+  {
+    "kode_barang": "8999918441390 ",
+    "nama_barang": "AIM BISC VEGETABLE 80GR"
+  },
+  {
+    "kode_barang": "8999918441406 ",
+    "nama_barang": "AIM CRYSPI CRACK 45G"
+  },
+  {
+    "kode_barang": "8999918443509 ",
+    "nama_barang": "ANEKA BISK SQUARE PUFF 300G"
+  },
+  {
+    "kode_barang": "8999918451016 ",
+    "nama_barang": "AIM SEE HONG PUFF 230GR"
+  },
+  {
+    "kode_barang": "8999918451078 ",
+    "nama_barang": "AIM ANEKA ASSORTED 180GR"
+  },
+  {
+    "kode_barang": "8999918451085 ",
+    "nama_barang": "AIM ANEKA ASSORTED 1000GR"
+  },
+  {
+    "kode_barang": "8999918451207 ",
+    "nama_barang": "BISCUIT TRIF-TI 3IN1 120GR"
+  },
+  {
+    "kode_barang": "8999918451214 ",
+    "nama_barang": "AIM ANEKA ASSORTED 350GR KLG"
+  },
+  {
+    "kode_barang": "8999918451221 ",
+    "nama_barang": "AIM ROASTED CORN 150GR"
+  },
+  {
+    "kode_barang": "8999918451245 ",
+    "nama_barang": "TWIPIZ MARIE CRYSPY 120GR"
+  },
+  {
+    "kode_barang": "8999918451276 ",
+    "nama_barang": "AIM LOVER COKLAT 550"
+  },
+  {
+    "kode_barang": "8999918451283 ",
+    "nama_barang": "AIM LOVER STRW WAFER 550"
+  },
+  {
+    "kode_barang": "8999918451351 ",
+    "nama_barang": "AIM BISKUIT KELAPA MUDA 250GR"
+  },
+  {
+    "kode_barang": "8999918451375 ",
+    "nama_barang": "AIM ROSE CREAM 180"
+  },
+  {
+    "kode_barang": "8999918451382 ",
+    "nama_barang": "AIM CHOCO CREAM 180"
+  },
+  {
+    "kode_barang": "8999918451412 ",
+    "nama_barang": "AIM LOVER COKLAT 80"
+  },
+  {
+    "kode_barang": "8999918451429 ",
+    "nama_barang": "AIM LOVER STR 80"
+  },
+  {
+    "kode_barang": "8999918585193 ",
+    "nama_barang": "AIM MILK COOKIES 250"
+  },
+  {
+    "kode_barang": "8999918585223 ",
+    "nama_barang": "AIM COCOA PUFF 200"
+  },
+  {
+    "kode_barang": "8999926252254 ",
+    "nama_barang": "WYBERT PASTILES"
+  },
+  {
+    "kode_barang": "8999926256757 ",
+    "nama_barang": "WYBERT PLUS CENGKEH 17 G"
+  },
+  {
+    "kode_barang": "8999926264752 ",
+    "nama_barang": "WYBERT PLUS ANISEED 17G"
+  },
+  {
+    "kode_barang": "8999926382753 ",
+    "nama_barang": "WYBERT PLUS EUCALYPTUS 17G"
+  },
+  {
+    "kode_barang": "8999926446752 ",
+    "nama_barang": "WYBERT PLUS JAHE 17 G"
+  },
+  {
+    "kode_barang": "8999926674759 ",
+    "nama_barang": "WYBERT PLUS ORIGINAL 17G"
+  },
+  {
+    "kode_barang": "8999979000017 ",
+    "nama_barang": "LION STAR ROUND BASIN 10 BA-1"
+  },
+  {
+    "kode_barang": "8999979000611 ",
+    "nama_barang": "BANGKU DAPUR LION STAR G-3 SGR"
+  },
+  {
+    "kode_barang": "8999979000956 ",
+    "nama_barang": "LION STAR NS-1 SNOWMAN BTL 430"
+  },
+  {
+    "kode_barang": "8999979002547 ",
+    "nama_barang": "LION STAR SUN COOLER 2,7 SC-1"
+  },
+  {
+    "kode_barang": "8999979004268 ",
+    "nama_barang": "LION STAR LAUNDRY CLIPS JB-1"
+  },
+  {
+    "kode_barang": "8999979004282 ",
+    "nama_barang": "LION STAR HANGER 20 STK"
+  },
+  {
+    "kode_barang": "8999979004411 ",
+    "nama_barang": "LION STAR CUP W/STRAW GL-12"
+  },
+  {
+    "kode_barang": "8999979005470 ",
+    "nama_barang": "LION STAR KITCHEN SCA 5K KS-3"
+  },
+  {
+    "kode_barang": "8999979009898 ",
+    "nama_barang": "LION STAR FOOD CARR 15K 4S R10"
+  },
+  {
+    "kode_barang": "8999979011044 ",
+    "nama_barang": "LION STAR PLATE DELUXE TS-7"
+  },
+  {
+    "kode_barang": "8999979011778 ",
+    "nama_barang": "LION STAR CREAM POT PT-14"
+  },
+  {
+    "kode_barang": "8999979016247 ",
+    "nama_barang": "LION STAR FRESH SEALWARE SW-30"
+  },
+  {
+    "kode_barang": "8999979016308 ",
+    "nama_barang": "LION STAR N-16 JOLLY BTL 500ML"
+  },
+  {
+    "kode_barang": "8999979016322 ",
+    "nama_barang": "LION STAR JOVI MUG 231 GL-38"
+  },
+  {
+    "kode_barang": "8999979016445 ",
+    "nama_barang": "LION STAR JOVI MUG 331 GL-39"
+  },
+  {
+    "kode_barang": "8999979017824 ",
+    "nama_barang": "LION STAR N-75 POP BTL 500ML"
+  },
+  {
+    "kode_barang": "8999979018227 ",
+    "nama_barang": "EXELLENT SPRAY ANT NYAMUK"
+  },
+  {
+    "kode_barang": "8999979018531 ",
+    "nama_barang": "LION STAR STRAW CUP S GL-33"
+  },
+  {
+    "kode_barang": "8999979019071 ",
+    "nama_barang": "LION STAR N-67 KENY BTL 550ML"
+  },
+  {
+    "kode_barang": "8999979020961 ",
+    "nama_barang": "LION STAR GL-65 SOLO MUG 250ML"
+  },
+  {
+    "kode_barang": "8999979022491 ",
+    "nama_barang": "LION STAR LIVINA BROOM BM-333"
+  },
+  {
+    "kode_barang": "8999979023344 ",
+    "nama_barang": "LION STAR NN-12 POCCA BTL 500M"
+  },
+  {
+    "kode_barang": "8999979023450 ",
+    "nama_barang": "LION STAR TISSUE DISP S TR-7"
+  },
+  {
+    "kode_barang": "8999979023504 ",
+    "nama_barang": "LION STAR CLEAN PAL 1,2L C-36"
+  },
+  {
+    "kode_barang": "8999979024020 ",
+    "nama_barang": "LION STAR WALL POT HGR S GB-16"
+  },
+  {
+    "kode_barang": "8999979024280 ",
+    "nama_barang": "LION STAR NN-15 MASKY BTL 500M"
+  },
+  {
+    "kode_barang": "8999988001029 ",
+    "nama_barang": "HI O2 320 ML"
+  },
+  {
+    "kode_barang": "8999988001036 ",
+    "nama_barang": "HI O2 320ML"
+  },
+  {
+    "kode_barang": "8999988168203 ",
+    "nama_barang": "BAPALA BALS PALA MERAH 36G"
+  },
+  {
+    "kode_barang": "8999988168210 ",
+    "nama_barang": "BAPALA BALS PALA MERAH 20G"
+  },
+  {
+    "kode_barang": "8999988168807 ",
+    "nama_barang": "BAPALA BALS PALA UNGU/PTH 36G"
+  },
+  {
+    "kode_barang": "8999988168814 ",
+    "nama_barang": "BAPALA BALS PALA UNGU/PTH 20G"
+  },
+  {
+    "kode_barang": "8999988168869 ",
+    "nama_barang": "BAPALA BALS PALA KUNING 36G"
+  },
+  {
+    "kode_barang": "8999988168876 ",
+    "nama_barang": "BAPALA BALS PALA KUNING 20G"
+  },
+  {
+    "kode_barang": "8999988188188 ",
+    "nama_barang": "KAKI 3 BALSEM HIJAU 36GR"
+  },
+  {
+    "kode_barang": "8999988188881 ",
+    "nama_barang": "KAKI TIGA BALS HIJAU 20GR"
+  },
+  {
+    "kode_barang": "8999988188898 ",
+    "nama_barang": "KAKI TIGA BALS HIJAU 10G"
+  },
+  {
+    "kode_barang": "8999988269160 ",
+    "nama_barang": "ENAO FOOD SUPPLEMENT 6SCT 4G"
+  },
+  {
+    "kode_barang": "8999988269177 ",
+    "nama_barang": "ENAO FOOD SUPPLEMENT 4GR SCT"
+  },
+  {
+    "kode_barang": "8999988269283 ",
+    "nama_barang": "ENA O ENERGY DRINK 150M"
+  },
+  {
+    "kode_barang": "8999988269290 ",
+    "nama_barang": "ENAE O ENERGY DRINK 150 ML"
+  },
+  {
+    "kode_barang": "8999988269689 ",
+    "nama_barang": "ENA O ENERGY DRINK 238 ML"
+  },
+  {
+    "kode_barang": "8999988288284 ",
+    "nama_barang": "KAKI TIGA BALS KUNING 10G"
+  },
+  {
+    "kode_barang": "8999988288888 ",
+    "nama_barang": "KAKI TIGA BALS KUNING 36GR"
+  },
+  {
+    "kode_barang": "8999988288895 ",
+    "nama_barang": "KAKI TIKA BALS KUNING KC 20GR"
+  },
+  {
+    "kode_barang": "8999988289670 ",
+    "nama_barang": "ENERBEE PLUS ENERGI DRINK 250M"
+  },
+  {
+    "kode_barang": "8999988298986 ",
+    "nama_barang": "HEADACHE POWD KAKI TIGA 12SCT"
+  },
+  {
+    "kode_barang": "8999988318707 ",
+    "nama_barang": "LANG-LANG SARI STRAWB 8X7G"
+  },
+  {
+    "kode_barang": "8999988330228 ",
+    "nama_barang": "DELIPO SANZHA PLUM 200ML"
+  },
+  {
+    "kode_barang": "8999988388182 ",
+    "nama_barang": "KAKI TIGA SALEP KULIT"
+  },
+  {
+    "kode_barang": "8999988388687 ",
+    "nama_barang": "KAKI TIGA OBAT KURAP"
+  },
+  {
+    "kode_barang": "8999988688688 ",
+    "nama_barang": "KAKI TIGA BALS PUTIH 36G"
+  },
+  {
+    "kode_barang": "8999988778570 ",
+    "nama_barang": "LASEGAR PLUS RASA JERUK 7GR"
+  },
+  {
+    "kode_barang": "8999988778594 ",
+    "nama_barang": "LASEGAR 24X24HGR"
+  },
+  {
+    "kode_barang": "8999988778679 ",
+    "nama_barang": "LASEGAR PLUS JRK NIPIS 7GR"
+  },
+  {
+    "kode_barang": "8999988778686 ",
+    "nama_barang": "LASEGAR PLUS JERUK NIPIS 7GR"
+  },
+  {
+    "kode_barang": "8999988778808 ",
+    "nama_barang": "LASEGAR APEL 330 ML"
+  },
+  {
+    "kode_barang": "8999988778815 ",
+    "nama_barang": "LASEGAR JERUK 330 ML"
+  },
+  {
+    "kode_barang": "8999988778822 ",
+    "nama_barang": "LASEGAR STRAWBERI 330 ML"
+  },
+  {
+    "kode_barang": "8999988778839 ",
+    "nama_barang": "LASEGAR MELON 330 ML"
+  },
+  {
+    "kode_barang": "8999988778846 ",
+    "nama_barang": "LASEGAR JAMBU 330 ML"
+  },
+  {
+    "kode_barang": "8999988778853 ",
+    "nama_barang": "LASEGAR ANGGUR 330 ML"
+  },
+  {
+    "kode_barang": "8999988778860 ",
+    "nama_barang": "LASEGAR LECI 330 ML"
+  },
+  {
+    "kode_barang": "8999988778884 ",
+    "nama_barang": "LASEGAR JERUK NIPIS 330 ML"
+  },
+  {
+    "kode_barang": "8999988778976 ",
+    "nama_barang": "LASEGAR 500 ML"
+  },
+  {
+    "kode_barang": "8999988778983 ",
+    "nama_barang": "LASEGAR 200 ML"
+  },
+  {
+    "kode_barang": "8999988888804 ",
+    "nama_barang": "KAKI TIGA APEL 320 ML"
+  },
+  {
+    "kode_barang": "8999988888811 ",
+    "nama_barang": "KAKI TIGA JERUK 320 ML"
+  },
+  {
+    "kode_barang": "8999988888828 ",
+    "nama_barang": "KAKI TIGA STARWB 320 ML"
+  },
+  {
+    "kode_barang": "8999988888835 ",
+    "nama_barang": "KAKI TIGA MELON 320 ML"
+  },
+  {
+    "kode_barang": "8999988888842 ",
+    "nama_barang": "KAKI TIGA JAMBU 320 ML"
+  },
+  {
+    "kode_barang": "8999988888859 ",
+    "nama_barang": "KAKI TIGA ANGGUR 320 ML"
+  },
+  {
+    "kode_barang": "8999988888866 ",
+    "nama_barang": "KAKI TIGA LECI 320 ML"
+  },
+  {
+    "kode_barang": "8999988888972 ",
+    "nama_barang": "KAKI TIGA 500 ML"
+  },
+  {
+    "kode_barang": "8999988888989 ",
+    "nama_barang": "KAKI TIGA 200 ML"
+  },
+  {
+    "kode_barang": "899999715007 ",
+    "nama_barang": "VASELINE INTEN CR FARMING 100M"
+  },
+  {
+    "kode_barang": "8999999000059 ",
+    "nama_barang": "TARO SNACK POTATO BARBEQUE"
+  },
+  {
+    "kode_barang": "8999999000639 ",
+    "nama_barang": "CLEAR HAIR STYLING CREAM 250"
+  },
+  {
+    "kode_barang": "8999999000721 ",
+    "nama_barang": "SUNLIGHT ACTIVE GEL ORG 200ML"
+  },
+  {
+    "kode_barang": "8999999000769 ",
+    "nama_barang": "SARI MURNI ISI 5"
+  },
+  {
+    "kode_barang": "8999999001032 ",
+    "nama_barang": "LIF HWL ACTIVFRESH 180 ML"
+  },
+  {
+    "kode_barang": "8999999001049 ",
+    "nama_barang": "LIF HWL TOTALPROTECT 180 ML"
+  },
+  {
+    "kode_barang": "8999999001056 ",
+    "nama_barang": "LIF HWL BLUE 180 ML"
+  },
+  {
+    "kode_barang": "8999999001070 ",
+    "nama_barang": "LIF HWL RED PUMP 200 ML"
+  },
+  {
+    "kode_barang": "8999999001087 ",
+    "nama_barang": "LIF HWL WHITE 200 ML"
+  },
+  {
+    "kode_barang": "8999999001100 ",
+    "nama_barang": "LIFEBOYNATUREPURE 250ML"
+  },
+  {
+    "kode_barang": "8999999001124 ",
+    "nama_barang": "LIFEBUOY BW MILDCARE 250 ML"
+  },
+  {
+    "kode_barang": "8999999001131 ",
+    "nama_barang": "LIF BW BIRU 300 BTL"
+  },
+  {
+    "kode_barang": "8999999001148 ",
+    "nama_barang": "LIF BW GREEN 300 BTL"
+  },
+  {
+    "kode_barang": "8999999001155 ",
+    "nama_barang": "LIF BW RED 300 BTL"
+  },
+  {
+    "kode_barang": "8999999001162 ",
+    "nama_barang": "LIF BW BIRU 300 BTL"
+  },
+  {
+    "kode_barang": "8999999001179 ",
+    "nama_barang": "LIFEBOUY BW ACTIVFRESH 450 ML"
+  },
+  {
+    "kode_barang": "8999999001186 ",
+    "nama_barang": "LIFEBOY NATUREPURE BW 450ML"
+  },
+  {
+    "kode_barang": "8999999001209 ",
+    "nama_barang": "LIFEBOUY BW MILDCARE 450 ML"
+  },
+  {
+    "kode_barang": "8999999001216 ",
+    "nama_barang": "LIF BW BIRU 100BTL"
+  },
+  {
+    "kode_barang": "8999999001223 ",
+    "nama_barang": "LIF BW GREEN 100 BTL"
+  },
+  {
+    "kode_barang": "8999999001230 ",
+    "nama_barang": "LIF BW RED 100 BTL"
+  },
+  {
+    "kode_barang": "8999999001247 ",
+    "nama_barang": "LIF BW BIRU 100 BTL"
+  },
+  {
+    "kode_barang": "8999999005498 ",
+    "nama_barang": "LIFEBOUY SHP STRONG&SHINY 90 M"
+  },
+  {
+    "kode_barang": "8999999054038 ",
+    "nama_barang": "WALLS MOO ACTIVE 6"
+  },
+  {
+    "kode_barang": "8999999091347 ",
+    "nama_barang": "KNORR BUMBU KUAH BAKSO 8GR"
+  },
+  {
+    "kode_barang": "8999999100353 ",
+    "nama_barang": "KECAP BANGGO MANIS 100ML"
+  },
+  {
+    "kode_barang": "8999999100506 ",
+    "nama_barang": "KECAP BANGO 600ML REFIL"
+  },
+  {
+    "kode_barang": "8999999101183 ",
+    "nama_barang": "KECAP BANGO MANIS REFIL 110 ML"
+  },
+  {
+    "kode_barang": "8999999101190 ",
+    "nama_barang": "KECAP BANGO MANIS REFIL 225 ML"
+  },
+  {
+    "kode_barang": "8999999191214 ",
+    "nama_barang": "TARO NET CHICKENZILLA 16"
+  },
+  {
+    "kode_barang": "8999999191337 ",
+    "nama_barang": "TARO NET CHICKEN 16GR"
+  },
+  {
+    "kode_barang": "8999999191368 ",
+    "nama_barang": "TARO NET CHICKEN 70GR"
+  },
+  {
+    "kode_barang": "8999999191412 ",
+    "nama_barang": "ROYCO SUP KRIM JAMUR 55GR"
+  },
+  {
+    "kode_barang": "8999999191429 ",
+    "nama_barang": "ROYCO SUP KRIM ASPARAGUS 56GR"
+  },
+  {
+    "kode_barang": "8999999191436 ",
+    "nama_barang": "ROYCO SUP KRIM AYAM 58GR"
+  },
+  {
+    "kode_barang": "8999999191443 ",
+    "nama_barang": "ROYCO SUP KRIM JAGUNG 50GR"
+  },
+  {
+    "kode_barang": "8999999191467 ",
+    "nama_barang": "TARO TWIN PACK CHICKEN 140GR"
+  },
+  {
+    "kode_barang": "8999999191504 ",
+    "nama_barang": "TARO SEAWEED 16 G"
+  },
+  {
+    "kode_barang": "8999999191511 ",
+    "nama_barang": "TARO STICK CHEESY CORN 20GR"
+  },
+  {
+    "kode_barang": "8999999191726 ",
+    "nama_barang": "TARO STICK ROASTED CORN 20GR"
+  },
+  {
+    "kode_barang": "8999999191801 ",
+    "nama_barang": "TARO NET SEAWEED 70GR"
+  },
+  {
+    "kode_barang": "8999999191818 ",
+    "nama_barang": "TARO TWIN PACK SEAWEED 140GR"
+  },
+  {
+    "kode_barang": "8999999191825 ",
+    "nama_barang": "TARO POTATO BBQ 16GR"
+  },
+  {
+    "kode_barang": "8999999191832 ",
+    "nama_barang": "TARO NET POTATO BARBEQUE 70GR"
+  },
+  {
+    "kode_barang": "8999999191849 ",
+    "nama_barang": "TARO TWIN PACK POTATO 140GR"
+  },
+  {
+    "kode_barang": "8999999191979 ",
+    "nama_barang": "ROYCO BUMBU PELEZAT R ASAM 10G"
+  },
+  {
+    "kode_barang": "8999999191993 ",
+    "nama_barang": "ROYCO BUMBU RASA ASAM 100GR"
+  },
+  {
+    "kode_barang": "8999999192006 ",
+    "nama_barang": "ROYCO B PELEZAT R TERASI 10G"
+  },
+  {
+    "kode_barang": "8999999192020 ",
+    "nama_barang": "ROYCO BUMBU RASA TERASI 100 G"
+  },
+  {
+    "kode_barang": "8999999192150 ",
+    "nama_barang": "ROYCO BUMBU RASA AYAM 100GR"
+  },
+  {
+    "kode_barang": "8999999192181 ",
+    "nama_barang": "ROYCO PELEZAT CAIR 110ML"
+  },
+  {
+    "kode_barang": "8999999192198 ",
+    "nama_barang": "ROYCO SERBAGUNA R.SAPI 100GR"
+  },
+  {
+    "kode_barang": "8999999192754 ",
+    "nama_barang": "ROYCO BUMBU PELEZAT 200 ML"
+  },
+  {
+    "kode_barang": "8999999192853 ",
+    "nama_barang": "ROYCO RASA AYAM EXTRA 20 %"
+  },
+  {
+    "kode_barang": "8999999192860 ",
+    "nama_barang": "ROYCO RASA SAPI EXTRA 20 %"
+  },
+  {
+    "kode_barang": "8999999192921 ",
+    "nama_barang": "ROYCO TP BUMBU TEMPURA 70GR"
+  },
+  {
+    "kode_barang": "8999999192938 ",
+    "nama_barang": "ROYCO TEPUNG BUMBU 80GR"
+  },
+  {
+    "kode_barang": "8999999192945 ",
+    "nama_barang": "ROYCO TEPUNG BUMBU EX PDS 80GR"
+  },
+  {
+    "kode_barang": "8999999193164 ",
+    "nama_barang": "TARO STICK CHEESY CORN 60"
+  },
+  {
+    "kode_barang": "8999999193171 ",
+    "nama_barang": "TARO STICK ROASTED CORN 60 G"
+  },
+  {
+    "kode_barang": "8999999193188 ",
+    "nama_barang": "TARO STIK PAPRIKA 18 G"
+  },
+  {
+    "kode_barang": "8999999193195 ",
+    "nama_barang": "TARO CHEESY 18"
+  },
+  {
+    "kode_barang": "8999999193201 ",
+    "nama_barang": "TARO STICK ROASTED CORN 18"
+  },
+  {
+    "kode_barang": "8999999193256 ",
+    "nama_barang": "ROYCO FDS RASA AYAM 6X8G"
+  },
+  {
+    "kode_barang": "8999999193263 ",
+    "nama_barang": "ROYCO FDS RASA SAPI 6X8G"
+  },
+  {
+    "kode_barang": "8999999193294 ",
+    "nama_barang": "ROYCO SERBAGUNA RASA AYAM 50GR"
+  },
+  {
+    "kode_barang": "8999999193300 ",
+    "nama_barang": "ROYCO SAPI 50"
+  },
+  {
+    "kode_barang": "8999999193317 ",
+    "nama_barang": "ROYCO SERBAGUNA 200 AYAM"
+  },
+  {
+    "kode_barang": "8999999193324 ",
+    "nama_barang": "ROYCO SERBAGUNA 200 SAPI"
+  },
+  {
+    "kode_barang": "8999999193331 ",
+    "nama_barang": "TARO SEAWEED 60"
+  },
+  {
+    "kode_barang": "8999999193348 ",
+    "nama_barang": "TARO POTATO 60"
+  },
+  {
+    "kode_barang": "8999999193409 ",
+    "nama_barang": "TARO CHILIKONG 16"
+  },
+  {
+    "kode_barang": "8999999193416 ",
+    "nama_barang": "TARO NET CHILIKONG 60"
+  },
+  {
+    "kode_barang": "8999999193430 ",
+    "nama_barang": "SARIWANGI TEH CELUP 100X2GR"
+  },
+  {
+    "kode_barang": "8999999193447 ",
+    "nama_barang": "SARIWANGI TEH HIJAU 25 S"
+  },
+  {
+    "kode_barang": "8999999193522 ",
+    "nama_barang": "SARIWANGI 5X1.85G"
+  },
+  {
+    "kode_barang": "8999999193539 ",
+    "nama_barang": "SARIWANGI 25X1.85G"
+  },
+  {
+    "kode_barang": "8999999193546 ",
+    "nama_barang": "SARIWANGI 50X1.85G"
+  },
+  {
+    "kode_barang": "8999999193553 ",
+    "nama_barang": "SARIWANGI 100 X 2GR"
+  },
+  {
+    "kode_barang": "8999999193607 ",
+    "nama_barang": "SARIWANGI MELATI 25 X 2GR"
+  },
+  {
+    "kode_barang": "8999999193614 ",
+    "nama_barang": "SARIWANGI TEH MADU 5X18GR"
+  },
+  {
+    "kode_barang": "8999999193683 ",
+    "nama_barang": "LIPTON ICE TEA LEMON 200ML"
+  },
+  {
+    "kode_barang": "8999999193690 ",
+    "nama_barang": "LIPTON ICE TEA APPLE 200ML"
+  },
+  {
+    "kode_barang": "8999999194031 ",
+    "nama_barang": "ROYCO BUMBU SERBAGUNA 8GR"
+  },
+  {
+    "kode_barang": "8999999194048 ",
+    "nama_barang": "ROYCO RASA AYAM 8GR"
+  },
+  {
+    "kode_barang": "8999999194703 ",
+    "nama_barang": "SARI MURNIO 16GR"
+  },
+  {
+    "kode_barang": "8999999194710 ",
+    "nama_barang": "SARI MURNI 40GR"
+  },
+  {
+    "kode_barang": "8999999194772 ",
+    "nama_barang": "SARIWANGI 25 X 2GR"
+  },
+  {
+    "kode_barang": "8999999195298 ",
+    "nama_barang": "SARIWANGI TEH KELAT 25SCT"
+  },
+  {
+    "kode_barang": "8999999195359 ",
+    "nama_barang": "SARIWANGI TEH KELAT 5SCT"
+  },
+  {
+    "kode_barang": "8999999195656 ",
+    "nama_barang": "SARI WANGI CELUP 50"
+  },
+  {
+    "kode_barang": "8999999195663 ",
+    "nama_barang": "SARI WANGI CELUP 25"
+  },
+  {
+    "kode_barang": "8999999195670 ",
+    "nama_barang": "SARI WANGI CELUP 100"
+  },
+  {
+    "kode_barang": "8999999196257 ",
+    "nama_barang": "SARIWANGI TEH J NIPIS 5X18GR"
+  },
+  {
+    "kode_barang": "8999999196264 ",
+    "nama_barang": "SARIWANGI TEH JAHE 5X18GR"
+  },
+  {
+    "kode_barang": "8999999196271 ",
+    "nama_barang": "SARIWANGI TEH SUSU 5X18GR"
+  },
+  {
+    "kode_barang": "8999999197049 ",
+    "nama_barang": "BLUE BAND 250G"
+  },
+  {
+    "kode_barang": "8999999197070 ",
+    "nama_barang": "BLUE BAND 2 KG"
+  },
+  {
+    "kode_barang": "8999999197803 ",
+    "nama_barang": "ROYCO TP BB TEMPURA 80GR"
+  },
+  {
+    "kode_barang": "8999999197810 ",
+    "nama_barang": "ROYCO TP BB SERBAGUNA PDS 80GR"
+  },
+  {
+    "kode_barang": "8999999197827 ",
+    "nama_barang": "ROYCO TP BB SERBAGUNA 80GR"
+  },
+  {
+    "kode_barang": "8999999198572 ",
+    "nama_barang": "ROYCO B PELEZAT SG RS AYAM 10G"
+  },
+  {
+    "kode_barang": "8999999198589 ",
+    "nama_barang": "ROYCO RASA SAPI 10 GR"
+  },
+  {
+    "kode_barang": "8999999198862 ",
+    "nama_barang": "BLUE BAND 200G"
+  },
+  {
+    "kode_barang": "8999999198893 ",
+    "nama_barang": "BLUE BAND 1KG"
+  },
+  {
+    "kode_barang": "8999999271060 ",
+    "nama_barang": "WALLS PADDLE POP COKLAT"
+  },
+  {
+    "kode_barang": "8999999271237 ",
+    "nama_barang": "WALLS PADDLE POP PELANGI KARAM"
+  },
+  {
+    "kode_barang": "8999999271350 ",
+    "nama_barang": "WALLS PADDLE POP MINI SUSU COK"
+  },
+  {
+    "kode_barang": "8999999271411 ",
+    "nama_barang": "WALLS BLIP BLOP"
+  },
+  {
+    "kode_barang": "8999999271428 ",
+    "nama_barang": "WALLS FEAST COKLAT KACANG"
+  },
+  {
+    "kode_barang": "8999999271435 ",
+    "nama_barang": "WALLS FEAST VANILLA KACANG"
+  },
+  {
+    "kode_barang": "8999999271572 ",
+    "nama_barang": "WALLS MAGNUM CLASSIC VANILA"
+  },
+  {
+    "kode_barang": "8999999271602 ",
+    "nama_barang": "WALLS DIMPI TRICO STRAWB JAMBU"
+  },
+  {
+    "kode_barang": "8999999271671 ",
+    "nama_barang": "WALLS PADDLE POP KARAMEL COKL"
+  },
+  {
+    "kode_barang": "8999999271787 ",
+    "nama_barang": "WALLS ROCKET JERUK STRAWB"
+  },
+  {
+    "kode_barang": "8999999271800 ",
+    "nama_barang": "WALLS PADDLE POP SUSU VANILA"
+  },
+  {
+    "kode_barang": "8999999271817 ",
+    "nama_barang": "WALLS PADDLE POP TWISTER RJA"
+  },
+  {
+    "kode_barang": "8999999271831 ",
+    "nama_barang": "WALLS PADDLE POP TWISTER CVS"
+  },
+  {
+    "kode_barang": "8999999271855 ",
+    "nama_barang": "WALL S PADDLE POP KARAMEL 65 M"
+  },
+  {
+    "kode_barang": "8999999271862 ",
+    "nama_barang": "WALL S PADDLE POP CHOCO ROCKY"
+  },
+  {
+    "kode_barang": "8999999271879 ",
+    "nama_barang": "WALL S PADDLE POP STAWBERY 65"
+  },
+  {
+    "kode_barang": "8999999271886 ",
+    "nama_barang": "WALLS LT GUMMY OCEAN 65ML"
+  },
+  {
+    "kode_barang": "8999999271893 ",
+    "nama_barang": "WALL S PADDLE POP CHOCO MUD 65"
+  },
+  {
+    "kode_barang": "8999999271923 ",
+    "nama_barang": "WALL S PADDLE BUBBLE GUM"
+  },
+  {
+    "kode_barang": "8999999271930 ",
+    "nama_barang": "WALL S PADDLE POP CHOCK ROCKS"
+  },
+  {
+    "kode_barang": "8999999271947 ",
+    "nama_barang": "WALL S TRICO 70ML"
+  },
+  {
+    "kode_barang": "8999999271954 ",
+    "nama_barang": "WALL S TWISTER ICE CONFEC 75M"
+  },
+  {
+    "kode_barang": "8999999272005 ",
+    "nama_barang": "WALLS PADDLE POP THICK SHAKE"
+  },
+  {
+    "kode_barang": "8999999272173 ",
+    "nama_barang": "WALLS POPULAIRE STRAWB&VANILA"
+  },
+  {
+    "kode_barang": "8999999272180 ",
+    "nama_barang": "WALLS POPULAIRE COKLAT&VANILA"
+  },
+  {
+    "kode_barang": "8999999272241 ",
+    "nama_barang": "WALLS PADDLE POP TS FROZEN"
+  },
+  {
+    "kode_barang": "8999999273132 ",
+    "nama_barang": "WALLS CONELLO COKLAT"
+  },
+  {
+    "kode_barang": "8999999273149 ",
+    "nama_barang": "WALLS CONELLO STRAWB"
+  },
+  {
+    "kode_barang": "8999999273248 ",
+    "nama_barang": "WALLS CONELLO CAPPUCINO"
+  },
+  {
+    "kode_barang": "8999999273255 ",
+    "nama_barang": "WALLS DOUBLE RASA STRAW"
+  },
+  {
+    "kode_barang": "8999999273262 ",
+    "nama_barang": "WALLS DOUBLE RASA TIRAMISU 125"
+  },
+  {
+    "kode_barang": "8999999273279 ",
+    "nama_barang": "WALL S CONELLO CUP COKLAT"
+  },
+  {
+    "kode_barang": "8999999273286 ",
+    "nama_barang": "WALL S CONELLO MOCHA CUP"
+  },
+  {
+    "kode_barang": "8999999273293 ",
+    "nama_barang": "WALL S CONELLO MINTTO BE"
+  },
+  {
+    "kode_barang": "8999999273309 ",
+    "nama_barang": "WALL S CONELLO CHOCO HUGS"
+  },
+  {
+    "kode_barang": "8999999273316 ",
+    "nama_barang": "WALL S CONELLO LUVPUCCINO"
+  },
+  {
+    "kode_barang": "8999999273323 ",
+    "nama_barang": "WALL S CONELLO FLIRTY BERRY"
+  },
+  {
+    "kode_barang": "8999999273347 ",
+    "nama_barang": "WALL S CONELLO TIRAMISE YOU"
+  },
+  {
+    "kode_barang": "8999999273354 ",
+    "nama_barang": "WALLS CONELLO LATTE CARAMEL"
+  },
+  {
+    "kode_barang": "8999999273361 ",
+    "nama_barang": "WALLS CONELLO HZL MOCHACINO"
+  },
+  {
+    "kode_barang": "8999999273378 ",
+    "nama_barang": "CONERLLO CHOCOLUV 135"
+  },
+  {
+    "kode_barang": "8999999273385 ",
+    "nama_barang": "CONELLO ROYALE LY BERRY MUCH"
+  },
+  {
+    "kode_barang": "8999999273392 ",
+    "nama_barang": "CONELLO BLACK ROYAL 135"
+  },
+  {
+    "kode_barang": "8999999273408 ",
+    "nama_barang": "WALL S ROYALE ALMOND PRALI 135"
+  },
+  {
+    "kode_barang": "8999999273415 ",
+    "nama_barang": "WALL S ROYALE SWRETHEAR BR 135"
+  },
+  {
+    "kode_barang": "8999999273446 ",
+    "nama_barang": "WALL S CONELLO CHOCOLATE 120ML"
+  },
+  {
+    "kode_barang": "8999999273453 ",
+    "nama_barang": "CONELLO CLASSICO TIRAMISU"
+  },
+  {
+    "kode_barang": "8999999273460 ",
+    "nama_barang": "WALL S CONELLO CAPPUCINO 120ML"
+  },
+  {
+    "kode_barang": "8999999274047 ",
+    "nama_barang": "WALLS PADDLE POP BIZ-KIDZ 75ML"
+  },
+  {
+    "kode_barang": "8999999275433 ",
+    "nama_barang": "WALLS SHAKY2 SHAKE"
+  },
+  {
+    "kode_barang": "8999999275440 ",
+    "nama_barang": "WALLS SHAKY SHAKE"
+  },
+  {
+    "kode_barang": "8999999275457 ",
+    "nama_barang": "WALLS RAINBOW WAVE 60"
+  },
+  {
+    "kode_barang": "8999999275464 ",
+    "nama_barang": "WALLS CHOCO MAGMA 60"
+  },
+  {
+    "kode_barang": "8999999275488 ",
+    "nama_barang": "WALLS SEA JELLY BURST 60"
+  },
+  {
+    "kode_barang": "8999999275501 ",
+    "nama_barang": "WALLS TWISTER SABER 75"
+  },
+  {
+    "kode_barang": "8999999275525 ",
+    "nama_barang": "WALLS KUNGFU COOKIES"
+  },
+  {
+    "kode_barang": "8999999275549 ",
+    "nama_barang": "WALLS TWISTER FRUITY"
+  },
+  {
+    "kode_barang": "8999999275556 ",
+    "nama_barang": "WALLS NINJA JELLY"
+  },
+  {
+    "kode_barang": "8999999275563 ",
+    "nama_barang": "NINJA EAGLE SURP"
+  },
+  {
+    "kode_barang": "8999999275570 ",
+    "nama_barang": "RAINBOW PEAK"
+  },
+  {
+    "kode_barang": "8999999275587 ",
+    "nama_barang": "PADDLE POP CHOKO KICK"
+  },
+  {
+    "kode_barang": "8999999276171 ",
+    "nama_barang": "WALLS MOO"
+  },
+  {
+    "kode_barang": "8999999277406 ",
+    "nama_barang": "WALLS PADDLE POP PELANGI 1000M"
+  },
+  {
+    "kode_barang": "8999999277413 ",
+    "nama_barang": "WALLS PADDL4E POP COOK&CR"
+  },
+  {
+    "kode_barang": "8999999277444 ",
+    "nama_barang": "WALLS MOCCA BLIZZARD"
+  },
+  {
+    "kode_barang": "8999999277468 ",
+    "nama_barang": "WALLS VANILLA 900ML"
+  },
+  {
+    "kode_barang": "8999999277475 ",
+    "nama_barang": "WALLS 3 IN 1 COK,STRA,VAN 900"
+  },
+  {
+    "kode_barang": "8999999277482 ",
+    "nama_barang": "WALLS CHOCOLATE BLIZZARD 900G."
+  },
+  {
+    "kode_barang": "8999999277499 ",
+    "nama_barang": "WALLS COOKIES & CREAM VAN 900M"
+  },
+  {
+    "kode_barang": "8999999277505 ",
+    "nama_barang": "WALS 2 IN 1 VAN COK COOK 900ML"
+  },
+  {
+    "kode_barang": "8999999277512 ",
+    "nama_barang": "WALLS 2 IN 1 STRAWBERY 900ML"
+  },
+  {
+    "kode_barang": "8999999277529 ",
+    "nama_barang": "WALLS SELECTION CHOCOLATE"
+  },
+  {
+    "kode_barang": "8999999277536 ",
+    "nama_barang": "WALLS SELECTION STRAWB 850GR"
+  },
+  {
+    "kode_barang": "8999999277543 ",
+    "nama_barang": "WALLS SELECTION COFFEE NUTS"
+  },
+  {
+    "kode_barang": "8999999277550 ",
+    "nama_barang": "WALL S SELECTION HONEY CARAMEL"
+  },
+  {
+    "kode_barang": "8999999277567 ",
+    "nama_barang": "WALLS STRAWB 900ML"
+  },
+  {
+    "kode_barang": "8999999277604 ",
+    "nama_barang": "WALLS VERY ROCKY ROAD 900 ML"
+  },
+  {
+    "kode_barang": "8999999277611 ",
+    "nama_barang": "WALLS DOUBLE DUTCH 900 ML"
+  },
+  {
+    "kode_barang": "8999999277628 ",
+    "nama_barang": "WALLS 2 IN 1 CHOCO MARBLE 900M"
+  },
+  {
+    "kode_barang": "8999999277635 ",
+    "nama_barang": "WALL S 2 IN 1 STRAW GRACIA 900"
+  },
+  {
+    "kode_barang": "8999999277642 ",
+    "nama_barang": "WALLS VERY ROCKY ROAD 400 ML"
+  },
+  {
+    "kode_barang": "8999999277659 ",
+    "nama_barang": "WALL S DOUBLE DUCTH 400 ML"
+  },
+  {
+    "kode_barang": "8999999277673 ",
+    "nama_barang": "WALL S 2 IN 1 STRAWBERY 400 M"
+  },
+  {
+    "kode_barang": "8999999277680 ",
+    "nama_barang": "WALL S 2 IN 1 VANILLA COK 400M"
+  },
+  {
+    "kode_barang": "8999999277697 ",
+    "nama_barang": "WALL SELECTION CHOCOLATE 850ML"
+  },
+  {
+    "kode_barang": "8999999277703 ",
+    "nama_barang": "WALL SELECTION CAPPUCCINO 850"
+  },
+  {
+    "kode_barang": "8999999277710 ",
+    "nama_barang": "WALL SELECTION BLUEBERY 850ML"
+  },
+  {
+    "kode_barang": "8999999277727 ",
+    "nama_barang": "WALL SELECTION STRAWBWRY 850ML"
+  },
+  {
+    "kode_barang": "8999999277734 ",
+    "nama_barang": "WALLS MOO 70 ML"
+  },
+  {
+    "kode_barang": "8999999277741 ",
+    "nama_barang": "WALL S TRIPLE COKLAT 3IN1 900"
+  },
+  {
+    "kode_barang": "8999999277758 ",
+    "nama_barang": "WALL S 3IN1 STW,ORG,BUBLE 900M"
+  },
+  {
+    "kode_barang": "8999999277765 ",
+    "nama_barang": "WALL S 3IN1 CLK,STRW,VAN"
+  },
+  {
+    "kode_barang": "8999999277772 ",
+    "nama_barang": "WALL S 3IN1 STR,BBG,ORG 400ML"
+  },
+  {
+    "kode_barang": "8999999277802 ",
+    "nama_barang": "WALLS 2IN1 STRW,CHOC CHIP 400M"
+  },
+  {
+    "kode_barang": "8999999277819 ",
+    "nama_barang": "WALLS 2IN1 STRAWB CHOCO 900GR"
+  },
+  {
+    "kode_barang": "8999999277826 ",
+    "nama_barang": "WALL SELECTION DOUBLE HZNT 850"
+  },
+  {
+    "kode_barang": "8999999277840 ",
+    "nama_barang": "WALL S MILKY VANILLA CHO 900ML"
+  },
+  {
+    "kode_barang": "8999999277857 ",
+    "nama_barang": "WALL S MILKY VANILLA 400ML"
+  },
+  {
+    "kode_barang": "8999999277895 ",
+    "nama_barang": "WALLS BRONIES TIRAMISU 600G"
+  },
+  {
+    "kode_barang": "8999999277901 ",
+    "nama_barang": "WALLS VIENNETTA BROW.CHO 600G"
+  },
+  {
+    "kode_barang": "8999999277918 ",
+    "nama_barang": "WALLS NYDAILY HCAL BLUE 400"
+  },
+  {
+    "kode_barang": "8999999277925 ",
+    "nama_barang": "WALLS MILK VANILLA 900"
+  },
+  {
+    "kode_barang": "8999999277932 ",
+    "nama_barang": "WALL S SELECT ITALIAN 750ML"
+  },
+  {
+    "kode_barang": "8999999277963 ",
+    "nama_barang": "WALL S SELECT CHESSIE BLUE 750"
+  },
+  {
+    "kode_barang": "8999999277987 ",
+    "nama_barang": "WALLS VIENNETTA BLACK FOREST"
+  },
+  {
+    "kode_barang": "8999999278274 ",
+    "nama_barang": "WALL S VIENNETA KURMA 600ML"
+  },
+  {
+    "kode_barang": "8999999278281 ",
+    "nama_barang": "WALL S MINI CORNET STRW 12X30M"
+  },
+  {
+    "kode_barang": "8999999278298 ",
+    "nama_barang": "WALL S MINI CORNET CHOC 12X30M"
+  },
+  {
+    "kode_barang": "8999999278359 ",
+    "nama_barang": "WALL S TRI CHOCO 350 ML"
+  },
+  {
+    "kode_barang": "8999999278366 ",
+    "nama_barang": "WALLS COKLAT VANILLA 350"
+  },
+  {
+    "kode_barang": "8999999278380 ",
+    "nama_barang": "WALL S TRIPLE TWIST 350 ML"
+  },
+  {
+    "kode_barang": "8999999278403 ",
+    "nama_barang": "WALLS TRIPLE FRUIT 350"
+  },
+  {
+    "kode_barang": "8999999278427 ",
+    "nama_barang": "WALLS NEOPOLITAN 350"
+  },
+  {
+    "kode_barang": "8999999278434 ",
+    "nama_barang": "WALLS COKLAT VANILA 700"
+  },
+  {
+    "kode_barang": "8999999278441 ",
+    "nama_barang": "WALL S CORNETTO DISC CHO"
+  },
+  {
+    "kode_barang": "8999999278458 ",
+    "nama_barang": "CONELO DISC VAN"
+  },
+  {
+    "kode_barang": "8999999280000 ",
+    "nama_barang": "WALLS PADDLE POP COKLAT 65ML"
+  },
+  {
+    "kode_barang": "8999999280017 ",
+    "nama_barang": "WALLS PADDLE POP FLAKES"
+  },
+  {
+    "kode_barang": "8999999280024 ",
+    "nama_barang": "WALLS PADDLE POP PELANGI"
+  },
+  {
+    "kode_barang": "8999999280086 ",
+    "nama_barang": "WALLS PADDLE POP C&C VANILA"
+  },
+  {
+    "kode_barang": "8999999280093 ",
+    "nama_barang": "WALL S PADDLE POP GALACTICA"
+  },
+  {
+    "kode_barang": "8999999280109 ",
+    "nama_barang": "WALL S PADDLE POP GALACTICA"
+  },
+  {
+    "kode_barang": "8999999280116 ",
+    "nama_barang": "WALL S JELLY GALAXY 65ML"
+  },
+  {
+    "kode_barang": "8999999280123 ",
+    "nama_barang": "WALL S PADDLE POP GALACTICA"
+  },
+  {
+    "kode_barang": "8999999280130 ",
+    "nama_barang": "WALL S PADDLE POP GALACTICA"
+  },
+  {
+    "kode_barang": "8999999280147 ",
+    "nama_barang": "WALL S PADDLE POP NUTTY CHOC"
+  },
+  {
+    "kode_barang": "8999999280154 ",
+    "nama_barang": "WALL S PADDLE POP RAINBAOW"
+  },
+  {
+    "kode_barang": "8999999280161 ",
+    "nama_barang": "WALL S PADDLE POP SARSI"
+  },
+  {
+    "kode_barang": "8999999280178 ",
+    "nama_barang": "WALL S PADDLE POP CHOCO CHARM"
+  },
+  {
+    "kode_barang": "8999999280185 ",
+    "nama_barang": "WALL S PADDLE POP MARKISA"
+  },
+  {
+    "kode_barang": "8999999280192 ",
+    "nama_barang": "PADDLE POP CANDY CAKE NOVA"
+  },
+  {
+    "kode_barang": "8999999280208 ",
+    "nama_barang": "WALLS CHOCO BERRY PO[[ER"
+  },
+  {
+    "kode_barang": "8999999280215 ",
+    "nama_barang": "PADDLE POP CHOCOLATE VOLT 60ML"
+  },
+  {
+    "kode_barang": "8999999280222 ",
+    "nama_barang": "PADDLE POP RAINBOW SPARK 60ML"
+  },
+  {
+    "kode_barang": "8999999280239 ",
+    "nama_barang": "PADDLE POP TWISTER COLA 75ML"
+  },
+  {
+    "kode_barang": "8999999280246 ",
+    "nama_barang": "PADDLE POP CYBERION 65ML"
+  },
+  {
+    "kode_barang": "8999999280253 ",
+    "nama_barang": "WALL S TRICO STRAWBERRY 60ML"
+  },
+  {
+    "kode_barang": "8999999282196 ",
+    "nama_barang": "WALLS POPULAIRE COK/VAN 90 ML"
+  },
+  {
+    "kode_barang": "8999999282202 ",
+    "nama_barang": "WALLS POPULAIRE STRO/VAN 90 ML"
+  },
+  {
+    "kode_barang": "8999999283018 ",
+    "nama_barang": "CANELLO CLASSICO VANILA 110ML"
+  },
+  {
+    "kode_barang": "8999999283025 ",
+    "nama_barang": "WALLS CONELO TIRAMISU 110"
+  },
+  {
+    "kode_barang": "8999999283032 ",
+    "nama_barang": "WALLS CONELLO HAZELNUT MOCA"
+  },
+  {
+    "kode_barang": "8999999283049 ",
+    "nama_barang": "WALLS CONELLO LATTE CARAMEL"
+  },
+  {
+    "kode_barang": "8999999290009 ",
+    "nama_barang": "WALLS MAGNUM ALMOND"
+  },
+  {
+    "kode_barang": "8999999290030 ",
+    "nama_barang": "WALLS VIENNETTA VAN COKLAT 600"
+  },
+  {
+    "kode_barang": "8999999294021 ",
+    "nama_barang": "WALL S FEAST VANILA 65ML"
+  },
+  {
+    "kode_barang": "8999999294038 ",
+    "nama_barang": "WALL S FEAST COKLAT KACANG 65M"
+  },
+  {
+    "kode_barang": "8999999390037 ",
+    "nama_barang": "RINSO ANTI NODA 500GR"
+  },
+  {
+    "kode_barang": "8999999390044 ",
+    "nama_barang": "RINSO ANTI NODA IKG"
+  },
+  {
+    "kode_barang": "8999999390099 ",
+    "nama_barang": "RINSO MATIC 1 KG"
+  },
+  {
+    "kode_barang": "8999999390105 ",
+    "nama_barang": "RINSO MATIC 3 KG"
+  },
+  {
+    "kode_barang": "8999999390129 ",
+    "nama_barang": "SUNLIGHT CREAM JRK NIPIS 400G"
+  },
+  {
+    "kode_barang": "8999999390167 ",
+    "nama_barang": "SUNLIGHT PIRING LEMON 400ML"
+  },
+  {
+    "kode_barang": "8999999390174 ",
+    "nama_barang": "SUNLIGHT PIRING LEMON 800ML"
+  },
+  {
+    "kode_barang": "8999999390181 ",
+    "nama_barang": "SUNLIGHT PIRING LIME POUCH 400"
+  },
+  {
+    "kode_barang": "8999999390198 ",
+    "nama_barang": "SUNLIGHT PIRING LIME POUCH 800"
+  },
+  {
+    "kode_barang": "8999999390211 ",
+    "nama_barang": "SUNLIGHT PIRING LIME 225ML"
+  },
+  {
+    "kode_barang": "8999999390310 ",
+    "nama_barang": "RINSO WARNA 1 KG"
+  },
+  {
+    "kode_barang": "8999999390327 ",
+    "nama_barang": "RINSO WARNA 2 KG"
+  },
+  {
+    "kode_barang": "8999999390419 ",
+    "nama_barang": "SUNLIGHT JERUK NIPIS 200ML"
+  },
+  {
+    "kode_barang": "8999999390495 ",
+    "nama_barang": "OMO CREAM BIRU 200G"
+  },
+  {
+    "kode_barang": "8999999390501 ",
+    "nama_barang": "OMO CREAM BIRU 400G"
+  },
+  {
+    "kode_barang": "8999999390518 ",
+    "nama_barang": "OMO KRIM POT 400G"
+  },
+  {
+    "kode_barang": "8999999390532 ",
+    "nama_barang": "OMO CREAM LEMON 400G"
+  },
+  {
+    "kode_barang": "8999999390549 ",
+    "nama_barang": "OMO KRIM LEMON POT 400G"
+  },
+  {
+    "kode_barang": "8999999390594 ",
+    "nama_barang": "OMO KRIM HIGINIS POT 400G"
+  },
+  {
+    "kode_barang": "8999999390723 ",
+    "nama_barang": "RINSO WARNA CLEAN 1KG"
+  },
+  {
+    "kode_barang": "8999999390730 ",
+    "nama_barang": "RINSO COLOUR & CARE 2KG"
+  },
+  {
+    "kode_barang": "8999999390884 ",
+    "nama_barang": "LIFEBUOY MERAH 90G"
+  },
+  {
+    "kode_barang": "8999999390891 ",
+    "nama_barang": "LIFEBUOY BIRU 90G"
+  },
+  {
+    "kode_barang": "8999999390907 ",
+    "nama_barang": "LIFEBUOY KUNING 90G"
+  },
+  {
+    "kode_barang": "8999999390914 ",
+    "nama_barang": "LIFEBUOY HIJAU 90G"
+  },
+  {
+    "kode_barang": "8999999390969 ",
+    "nama_barang": "SURF DET LIME FRESH 45GR"
+  },
+  {
+    "kode_barang": "8999999390976 ",
+    "nama_barang": "SURF BUBUK LIME FRESH 900"
+  },
+  {
+    "kode_barang": "8999999391041 ",
+    "nama_barang": "RINSO BUBUK WARNA 93G"
+  },
+  {
+    "kode_barang": "8999999391102 ",
+    "nama_barang": "LUX YOUTHFUL ESSENSE 100GR"
+  },
+  {
+    "kode_barang": "8999999391270 ",
+    "nama_barang": "LIFEBUOY HEALTHY FRESH 300ML"
+  },
+  {
+    "kode_barang": "8999999391379 ",
+    "nama_barang": "SUNLIGHT KRIM LIME POT 400G"
+  },
+  {
+    "kode_barang": "8999999391539 ",
+    "nama_barang": "LIFEBUOY CLEAR SKIN 80GR"
+  },
+  {
+    "kode_barang": "8999999391560 ",
+    "nama_barang": "RINSO ANTI NODA 32GR"
+  },
+  {
+    "kode_barang": "8999999391621 ",
+    "nama_barang": "RINSO ANTINODA 500GR NEW"
+  },
+  {
+    "kode_barang": "8999999391638 ",
+    "nama_barang": "RINSO ANTI NODA 900"
+  },
+  {
+    "kode_barang": "8999999391645 ",
+    "nama_barang": "RINSO ANTI NODA 2KG"
+  },
+  {
+    "kode_barang": "8999999391713 ",
+    "nama_barang": "VIM 650G"
+  },
+  {
+    "kode_barang": "8999999391751 ",
+    "nama_barang": "VIM BUBUK PEMBERSIH LEMON 650G"
+  },
+  {
+    "kode_barang": "8999999391768 ",
+    "nama_barang": "RINSO MATIC 1KG"
+  },
+  {
+    "kode_barang": "8999999391799 ",
+    "nama_barang": "RINSO MATIC 3 KG"
+  },
+  {
+    "kode_barang": "8999999391850 ",
+    "nama_barang": "LIFEBUOY HIJAU 70GR"
+  },
+  {
+    "kode_barang": "8999999391867 ",
+    "nama_barang": "LIFEBUOY PINK 70GR"
+  },
+  {
+    "kode_barang": "8999999391973 ",
+    "nama_barang": "RINSO WARNA 1 KG"
+  },
+  {
+    "kode_barang": "8999999392123 ",
+    "nama_barang": "SURF LIME FRESH 2KG"
+  },
+  {
+    "kode_barang": "8999999392147 ",
+    "nama_barang": "RINSO WARNA BUBUK 2KG"
+  },
+  {
+    "kode_barang": "8999999392154 ",
+    "nama_barang": "SUNLIGHT LEMON 200ML"
+  },
+  {
+    "kode_barang": "8999999392178 ",
+    "nama_barang": "SUNLIGHT JERUK NIPIS 250ML"
+  },
+  {
+    "kode_barang": "8999999392215 ",
+    "nama_barang": "SUNLIGHT JERUK NIPIS 650G"
+  },
+  {
+    "kode_barang": "8999999392222 ",
+    "nama_barang": "SUNLIGHT SCOURER LIME RVL 650G"
+  },
+  {
+    "kode_barang": "8999999392277 ",
+    "nama_barang": "SUNLIGHT LEMON 250ML BTL"
+  },
+  {
+    "kode_barang": "8999999392383 ",
+    "nama_barang": "RINSO BUBUK ANTI NODA 80G"
+  },
+  {
+    "kode_barang": "8999999392543 ",
+    "nama_barang": "LIFEBOY BODY WASH WHITE 100"
+  },
+  {
+    "kode_barang": "8999999392581 ",
+    "nama_barang": "LIFEBOY BODY WASH RED 100"
+  },
+  {
+    "kode_barang": "8999999392598 ",
+    "nama_barang": "LIFEBUOY B WASH NATUREPURE 100"
+  },
+  {
+    "kode_barang": "8999999392734 ",
+    "nama_barang": "SUNLIGHT JERUK NIPIS 90ML"
+  },
+  {
+    "kode_barang": "8999999392796 ",
+    "nama_barang": "LIFEBUOY BD WASH RED 300M"
+  },
+  {
+    "kode_barang": "8999999392819 ",
+    "nama_barang": "LIFEBUOY SURE PINK 90 GR"
+  },
+  {
+    "kode_barang": "8999999392864 ",
+    "nama_barang": "LUX SH PUMP 750ML SOFT LUX"
+  },
+  {
+    "kode_barang": "8999999392956 ",
+    "nama_barang": "LUX HONEY&JASMINE 75G"
+  },
+  {
+    "kode_barang": "8999999392963 ",
+    "nama_barang": "LUX BEAUTY WITH MILK & ROSE 75"
+  },
+  {
+    "kode_barang": "8999999393007 ",
+    "nama_barang": "SURF PTH CEMERLANG LM FRES 900"
+  },
+  {
+    "kode_barang": "8999999393021 ",
+    "nama_barang": "LIFEBUOY BD WASH RED 250M"
+  },
+  {
+    "kode_barang": "8999999393045 ",
+    "nama_barang": "SURF PTH CEMERLANG CLE FRES900"
+  },
+  {
+    "kode_barang": "8999999393069 ",
+    "nama_barang": "LIFEBUOY BD WASH BLUE 250M"
+  },
+  {
+    "kode_barang": "8999999393090 ",
+    "nama_barang": "LUX WHITE SPA SCRUB 200ML"
+  },
+  {
+    "kode_barang": "8999999393311 ",
+    "nama_barang": "LUX SPECIAL 2005 100GR"
+  },
+  {
+    "kode_barang": "8999999393434 ",
+    "nama_barang": "LUX BEAUTY SHOWER MOISTUR 300M"
+  },
+  {
+    "kode_barang": "8999999393458 ",
+    "nama_barang": "LUX SHOWER CREAM SILK 250ML"
+  },
+  {
+    "kode_barang": "8999999393465 ",
+    "nama_barang": "LUX BEAUTY SHOWER NOURISH 300M"
+  },
+  {
+    "kode_barang": "8999999393472 ",
+    "nama_barang": "LUX SPA SCRUB DISTRESS 200"
+  },
+  {
+    "kode_barang": "8999999393526 ",
+    "nama_barang": "LIFEBUOY BODY WASH D CLEAN 100"
+  },
+  {
+    "kode_barang": "8999999393533 ",
+    "nama_barang": "SURF THOU FLOWER 110 G"
+  },
+  {
+    "kode_barang": "8999999393540 ",
+    "nama_barang": "LIFEBOY BODY WASH M CARE 250"
+  },
+  {
+    "kode_barang": "8999999393571 ",
+    "nama_barang": "VIM LEMON 650G"
+  },
+  {
+    "kode_barang": "8999999393595 ",
+    "nama_barang": "VIM BUBUK PEMBERSIH 650G"
+  },
+  {
+    "kode_barang": "8999999393687 ",
+    "nama_barang": "SUNLIGHT PIRING LIME 800ML-BTL"
+  },
+  {
+    "kode_barang": "8999999393748 ",
+    "nama_barang": "LIFEBUOY DEEP CLEAN 250 ML"
+  },
+  {
+    "kode_barang": "8999999393762 ",
+    "nama_barang": "RINSO COLOUR & CARE 900GR"
+  },
+  {
+    "kode_barang": "8999999393779 ",
+    "nama_barang": "SUNLIGHT PRG LEMON 800ML-BTL"
+  },
+  {
+    "kode_barang": "8999999393823 ",
+    "nama_barang": "LUX BEAUTY SHOWER REFRESH 300M"
+  },
+  {
+    "kode_barang": "8999999393847 ",
+    "nama_barang": "LIFEBUOY NATUREPURE 250ML"
+  },
+  {
+    "kode_barang": "8999999393861 ",
+    "nama_barang": "LUX EVENING SILK 250 ML"
+  },
+  {
+    "kode_barang": "8999999393878 ",
+    "nama_barang": "LIFEBOY BODY WASH ORIGINAL 250"
+  },
+  {
+    "kode_barang": "8999999393892 ",
+    "nama_barang": "LIFEBOY BODY WASH WHITE 300"
+  },
+  {
+    "kode_barang": "8999999393908 ",
+    "nama_barang": "LIFEBOY DEEP CLEAN BW 300 RED"
+  },
+  {
+    "kode_barang": "8999999393915 ",
+    "nama_barang": "LIFEBUOY BODY WASH NATUR P 300"
+  },
+  {
+    "kode_barang": "8999999393922 ",
+    "nama_barang": "LIFEBOY BODY WASH ORIGINAL 300"
+  },
+  {
+    "kode_barang": "8999999393953 ",
+    "nama_barang": "LIFEBUOY MILDCARE 85GR"
+  },
+  {
+    "kode_barang": "8999999394035 ",
+    "nama_barang": "SURF LIME FRESH 1 KG"
+  },
+  {
+    "kode_barang": "8999999394042 ",
+    "nama_barang": "SURF DETERJEN 2 KG"
+  },
+  {
+    "kode_barang": "8999999394073 ",
+    "nama_barang": "RINSO BUBUK ANTI NODA 500G"
+  },
+  {
+    "kode_barang": "8999999394080 ",
+    "nama_barang": "RINSO BUBUK ANTI NODA 1 KG"
+  },
+  {
+    "kode_barang": "8999999394097 ",
+    "nama_barang": "RINSO BUBUK ANTI NODA 2 KG"
+  },
+  {
+    "kode_barang": "8999999394141 ",
+    "nama_barang": "SURF FLOWERS 2 KG"
+  },
+  {
+    "kode_barang": "8999999394158 ",
+    "nama_barang": "RINSO ANTI NODA 200GR"
+  },
+  {
+    "kode_barang": "8999999394219 ",
+    "nama_barang": "RINSO EXCEL 1 KG"
+  },
+  {
+    "kode_barang": "8999999394271 ",
+    "nama_barang": "LUX SHOWER EVENING SILK 450ML"
+  },
+  {
+    "kode_barang": "8999999394349 ",
+    "nama_barang": "LUX BEAUTY SHOWER GENTLE 300M"
+  },
+  {
+    "kode_barang": "8999999394356 ",
+    "nama_barang": "SURF BUBUK 100G"
+  },
+  {
+    "kode_barang": "8999999394462 ",
+    "nama_barang": "LUX SHOWER SPARKLING BEAU 250M"
+  },
+  {
+    "kode_barang": "8999999394479 ",
+    "nama_barang": "LUX SHOWER CREAM SILK 100ML"
+  },
+  {
+    "kode_barang": "8999999394486 ",
+    "nama_barang": "LIFEBUOY TOTALPROTECT 85GR"
+  },
+  {
+    "kode_barang": "8999999394523 ",
+    "nama_barang": "LIFEBUOY NATUREPURE 85GR"
+  },
+  {
+    "kode_barang": "8999999394547 ",
+    "nama_barang": "LUX SHWR CREAM SOFT LUXURY 100"
+  },
+  {
+    "kode_barang": "8999999394608 ",
+    "nama_barang": "LUX SHWR CREAM SPARKLING 100ML"
+  },
+  {
+    "kode_barang": "8999999394615 ",
+    "nama_barang": "SUNLIGHT STRAWBERRY 800ML"
+  },
+  {
+    "kode_barang": "8999999394776 ",
+    "nama_barang": "LUX BEAU SHOW REF PINK 250 ML"
+  },
+  {
+    "kode_barang": "8999999394851 ",
+    "nama_barang": "SURF LIME FRESH 900"
+  },
+  {
+    "kode_barang": "8999999394905 ",
+    "nama_barang": "RINSO EXCEL MAGIC HUNT 1KG"
+  },
+  {
+    "kode_barang": "8999999394912 ",
+    "nama_barang": "SURF CLEAN FRESH 90GR"
+  },
+  {
+    "kode_barang": "8999999394929 ",
+    "nama_barang": "SUNLIGHT LIME 800ML+MGK RFL"
+  },
+  {
+    "kode_barang": "8999999394967 ",
+    "nama_barang": "LUX SHOWER CREAM CITRUS 250ML"
+  },
+  {
+    "kode_barang": "8999999395049 ",
+    "nama_barang": "LUX WHITE GLAMOUR 100"
+  },
+  {
+    "kode_barang": "8999999395285 ",
+    "nama_barang": "LUX BEAUTY SHOWER GREEN 250 ML"
+  },
+  {
+    "kode_barang": "8999999395292 ",
+    "nama_barang": "LUX BEAUTY SHOWER GREEN 300 ML"
+  },
+  {
+    "kode_barang": "8999999395353 ",
+    "nama_barang": "LUX BEAUT SHOW LIME 250M"
+  },
+  {
+    "kode_barang": "8999999395391 ",
+    "nama_barang": "LUXCREAMY DELIGHT 90 G"
+  },
+  {
+    "kode_barang": "8999999395407 ",
+    "nama_barang": "LUX SHOWER VIBRANT CITRUS 450M"
+  },
+  {
+    "kode_barang": "8999999395414 ",
+    "nama_barang": "LUX SHOWER SPARKLING B 450ML"
+  },
+  {
+    "kode_barang": "8999999395438 ",
+    "nama_barang": "LUX SHOWER SPARKLING BEAU 250M"
+  },
+  {
+    "kode_barang": "8999999395445 ",
+    "nama_barang": "LUX SHOWER SOFT LUXURY 250 R"
+  },
+  {
+    "kode_barang": "8999999395520 ",
+    "nama_barang": "LIFEBUOY ACTIFRESH 85GR"
+  },
+  {
+    "kode_barang": "8999999395711 ",
+    "nama_barang": "LUX AROMATIX PETAL TOUCH 90GR"
+  },
+  {
+    "kode_barang": "8999999395780 ",
+    "nama_barang": "LUX YOUTHFUL ESSENCE 90GR"
+  },
+  {
+    "kode_barang": "8999999395797 ",
+    "nama_barang": "LUX SARI BUNGA LOTUS"
+  },
+  {
+    "kode_barang": "8999999395803 ",
+    "nama_barang": "LUX AQUA SPARKLE 90GR"
+  },
+  {
+    "kode_barang": "8999999395827 ",
+    "nama_barang": "LUX DAZZLING BEAUTY 90 G"
+  },
+  {
+    "kode_barang": "8999999395988 ",
+    "nama_barang": "LUX AROMATIX PEARL GLOW 90 GR"
+  },
+  {
+    "kode_barang": "8999999395995 ",
+    "nama_barang": "RINSO MOLTO MAGIC FRESH 900ML"
+  },
+  {
+    "kode_barang": "8999999396251 ",
+    "nama_barang": "LUX VIBRANT CITRUS 250 ML"
+  },
+  {
+    "kode_barang": "8999999396275 ",
+    "nama_barang": "LUX EVENING SILK 250 ML"
+  },
+  {
+    "kode_barang": "8999999396282 ",
+    "nama_barang": "LUX WHITE GLAMOUR 250 ML"
+  },
+  {
+    "kode_barang": "8999999396299 ",
+    "nama_barang": "LUX SILK NOURISHMENT 250 ML"
+  },
+  {
+    "kode_barang": "8999999396329 ",
+    "nama_barang": "LUX S.LUXURY SHOWER CREAM 450"
+  },
+  {
+    "kode_barang": "8999999396367 ",
+    "nama_barang": "LUX BEAUTY SHOW 450ML"
+  },
+  {
+    "kode_barang": "8999999396398 ",
+    "nama_barang": "LUX BEAUT SHOW ALMOND 250M"
+  },
+  {
+    "kode_barang": "8999999396435 ",
+    "nama_barang": "SURF LIME FRESH 100GR"
+  },
+  {
+    "kode_barang": "8999999396510 ",
+    "nama_barang": "LUX WHITE GLAMOUR SHOWER 450M"
+  },
+  {
+    "kode_barang": "8999999396749 ",
+    "nama_barang": "SUNLIGHT CREAM 2IN1 350GR"
+  },
+  {
+    "kode_barang": "8999999396886 ",
+    "nama_barang": "LIFEBUOY HEALTY CLEAN 100ML"
+  },
+  {
+    "kode_barang": "8999999396916 ",
+    "nama_barang": "LIFEBUOY HEALTHY CLEAN 300ML"
+  },
+  {
+    "kode_barang": "8999999397074 ",
+    "nama_barang": "LUX GLAMOUR 90GR"
+  },
+  {
+    "kode_barang": "8999999397289 ",
+    "nama_barang": "LUX BDW MAGIC SPELL 250BTL"
+  },
+  {
+    "kode_barang": "8999999397333 ",
+    "nama_barang": "LIFEBUOY CAIR HEALTY CARE 450M"
+  },
+  {
+    "kode_barang": "8999999397364 ",
+    "nama_barang": "LUX MAGIC SPELL 90GR"
+  },
+  {
+    "kode_barang": "8999999397371 ",
+    "nama_barang": "LUX MAGIC SPELL BDWASH 250ML"
+  },
+  {
+    "kode_barang": "8999999397432 ",
+    "nama_barang": "SUNLIGHT BATANGAN 270G"
+  },
+  {
+    "kode_barang": "8999999397470 ",
+    "nama_barang": "SURF CLEAN FRESH 2KG"
+  },
+  {
+    "kode_barang": "8999999397555 ",
+    "nama_barang": "SURF CLEAN FRESH 1KG"
+  },
+  {
+    "kode_barang": "8999999397661 ",
+    "nama_barang": "SURF CLEAN FRESH 100GR"
+  },
+  {
+    "kode_barang": "8999999397784 ",
+    "nama_barang": "RINSO ANTI NODA 75GR"
+  },
+  {
+    "kode_barang": "8999999397968 ",
+    "nama_barang": "SUPERBUSA BATANGAN 210G"
+  },
+  {
+    "kode_barang": "8999999398828 ",
+    "nama_barang": "LIFEBUOY HEALTHY CLEAN 300ML"
+  },
+  {
+    "kode_barang": "8999999398835 ",
+    "nama_barang": "LIFEBUOY HEALTHY CARE 300ML"
+  },
+  {
+    "kode_barang": "8999999398859 ",
+    "nama_barang": "LIFEBUOY BODY WASH D CLEAN 450"
+  },
+  {
+    "kode_barang": "8999999398910 ",
+    "nama_barang": "SUNLIGHT SOAP 225GR"
+  },
+  {
+    "kode_barang": "8999999399009 ",
+    "nama_barang": "RINSO ALOE VERA 70GR"
+  },
+  {
+    "kode_barang": "8999999399207 ",
+    "nama_barang": "LIFEBOY BODY WASH TOTAL P 450"
+  },
+  {
+    "kode_barang": "8999999399238 ",
+    "nama_barang": "LIFEBOY BODY WASH M CARE 450"
+  },
+  {
+    "kode_barang": "8999999399276 ",
+    "nama_barang": "LIFEBUOY BODY WASH NATUR P 450"
+  },
+  {
+    "kode_barang": "8999999399528 ",
+    "nama_barang": "LUX LUXURY SHOWER PINK 450ML"
+  },
+  {
+    "kode_barang": "8999999399771 ",
+    "nama_barang": "RINSO ANTINODA 75GR"
+  },
+  {
+    "kode_barang": "8999999399917 ",
+    "nama_barang": "LUX LUXURY SHOWER PINK 250ML"
+  },
+  {
+    "kode_barang": "8999999399962 ",
+    "nama_barang": "LUX WHITE GLAMOUR 250 ML"
+  },
+  {
+    "kode_barang": "8999999400002 ",
+    "nama_barang": "RINSO ANTI NODA 56 GR"
+  },
+  {
+    "kode_barang": "8999999400118 ",
+    "nama_barang": "SUNCLIN PEMUTIH REGUL 100ML"
+  },
+  {
+    "kode_barang": "8999999400125 ",
+    "nama_barang": "SUNCLIN PEMUTIH REGULAR 200M"
+  },
+  {
+    "kode_barang": "8999999400132 ",
+    "nama_barang": "SUNCLIN PEMUTIH REGULAR 500ML"
+  },
+  {
+    "kode_barang": "8999999400149 ",
+    "nama_barang": "SUNCLIN PEMUTIH REGULAR 1000ML"
+  },
+  {
+    "kode_barang": "8999999400187 ",
+    "nama_barang": "SUNCLIN PEMUTIH LEMON 200ML"
+  },
+  {
+    "kode_barang": "8999999400194 ",
+    "nama_barang": "SUNCLIN PEMUTIH LEMON 500ML"
+  },
+  {
+    "kode_barang": "8999999400200 ",
+    "nama_barang": "SUNCLIN PEMUTIH LEMON 1000 ML"
+  },
+  {
+    "kode_barang": "8999999400231 ",
+    "nama_barang": "SUNCLIN PEMUTIH FRESH 100ML"
+  },
+  {
+    "kode_barang": "8999999400484 ",
+    "nama_barang": "SUNCLIN PEMUTIH FLORAL 100ML"
+  },
+  {
+    "kode_barang": "8999999400491 ",
+    "nama_barang": "SUNCLIN PEMUTIH FLORAL 200ML"
+  },
+  {
+    "kode_barang": "8999999400507 ",
+    "nama_barang": "SUNCLIN PEMUTIH FLORAL 500ML"
+  },
+  {
+    "kode_barang": "8999999400576 ",
+    "nama_barang": "MOLTO PEWANGI VIOLET 450ML"
+  },
+  {
+    "kode_barang": "8999999400583 ",
+    "nama_barang": "MOLTO PEWANGI VIOLET 900 ML"
+  },
+  {
+    "kode_barang": "8999999400590 ",
+    "nama_barang": "MOLTO PEWANGI VIOLET 1800ML"
+  },
+  {
+    "kode_barang": "8999999400613 ",
+    "nama_barang": "MOLTO ULTRA BIRU 300 BTL"
+  },
+  {
+    "kode_barang": "8999999400637 ",
+    "nama_barang": "MOLTO ULTRA PINK 300 BTL"
+  },
+  {
+    "kode_barang": "8999999400651 ",
+    "nama_barang": "MOLTO SOFTENER FLOWER 450 ML"
+  },
+  {
+    "kode_barang": "8999999400736 ",
+    "nama_barang": "MOLTO PEWANGI PEAC VANILA 1800"
+  },
+  {
+    "kode_barang": "8999999400743 ",
+    "nama_barang": "MOLTO PW PEACH & VANILLA 900ML"
+  },
+  {
+    "kode_barang": "8999999400798 ",
+    "nama_barang": "MOLTO ULTRA BLUE SCT"
+  },
+  {
+    "kode_barang": "8999999400804 ",
+    "nama_barang": "MOLTO ULTRA PINK SCT"
+  },
+  {
+    "kode_barang": "8999999400811 ",
+    "nama_barang": "MOLTO ULTRA BLUE REFF 300ML"
+  },
+  {
+    "kode_barang": "8999999400828 ",
+    "nama_barang": "MOLTO ULTRA PINK 300ML RFL"
+  },
+  {
+    "kode_barang": "8999999400897 ",
+    "nama_barang": "SUNLIGHT ACTIVE GEL 200 ML"
+  },
+  {
+    "kode_barang": "8999999400903 ",
+    "nama_barang": "MOLTO FLORAL BLISS REFF 450 ML"
+  },
+  {
+    "kode_barang": "8999999400910 ",
+    "nama_barang": "MOLTO FLORAL BLISS 6 S"
+  },
+  {
+    "kode_barang": "8999999400958 ",
+    "nama_barang": "MOLTO PEWANGI FLO BLISS 900ML"
+  },
+  {
+    "kode_barang": "8999999400965 ",
+    "nama_barang": "MOLTO PEWANGI FRUITY 900 R"
+  },
+  {
+    "kode_barang": "8999999401023 ",
+    "nama_barang": "MOLTO PEWANGI FLOWER SHOWER900"
+  },
+  {
+    "kode_barang": "8999999401054 ",
+    "nama_barang": "MOLTO TRIKA FLOWER 450 RF"
+  },
+  {
+    "kode_barang": "8999999401078 ",
+    "nama_barang": "RINSO MOLTO ULTRA 800"
+  },
+  {
+    "kode_barang": "8999999401122 ",
+    "nama_barang": "MOLTO ULTRA SB 6 S"
+  },
+  {
+    "kode_barang": "8999999401139 ",
+    "nama_barang": "MOLTO ULTRA SEKALI BILAS 300"
+  },
+  {
+    "kode_barang": "8999999401146 ",
+    "nama_barang": "MOLTO ULTRA MORNING FRES 300"
+  },
+  {
+    "kode_barang": "8999999401160 ",
+    "nama_barang": "MOLTO ULTRA SB GREEN 300 ML"
+  },
+  {
+    "kode_barang": "8999999401177 ",
+    "nama_barang": "MOLTO ULTRA SB 300 BTL"
+  },
+  {
+    "kode_barang": "8999999401221 ",
+    "nama_barang": "RINSO ANTI NODA 450"
+  },
+  {
+    "kode_barang": "8999999401238 ",
+    "nama_barang": "RINSO ANTI NODA 900"
+  },
+  {
+    "kode_barang": "8999999401252 ",
+    "nama_barang": "RINSO ANTI NODA 2K"
+  },
+  {
+    "kode_barang": "8999999401313 ",
+    "nama_barang": "SURF CLEAN FRESH 900 G"
+  },
+  {
+    "kode_barang": "8999999401320 ",
+    "nama_barang": "SURF LIME FRESH 900 G"
+  },
+  {
+    "kode_barang": "8999999402495 ",
+    "nama_barang": "MOLTO ALOE VERA 900ML"
+  },
+  {
+    "kode_barang": "8999999402501 ",
+    "nama_barang": "MOLTO SOFTENER ALUE VERA 1800M"
+  },
+  {
+    "kode_barang": "8999999402815 ",
+    "nama_barang": "MOLTO PEWANGI LAVENDER SCT"
+  },
+  {
+    "kode_barang": "8999999403096 ",
+    "nama_barang": "MOLTO SOFT BLUE 450ML"
+  },
+  {
+    "kode_barang": "8999999403102 ",
+    "nama_barang": "MOLTO SOFT SPRING BLUE 500ML"
+  },
+  {
+    "kode_barang": "8999999403119 ",
+    "nama_barang": "MOLTO SOFTENER BLUE 900ML"
+  },
+  {
+    "kode_barang": "8999999403126 ",
+    "nama_barang": "MOLTO SOFT SPRING BLUE 1000ML"
+  },
+  {
+    "kode_barang": "8999999403164 ",
+    "nama_barang": "MOLTO SOFT BLOSSOM PINK 450ML"
+  },
+  {
+    "kode_barang": "8999999403188 ",
+    "nama_barang": "MOLTO SOFTENER PINK 900M"
+  },
+  {
+    "kode_barang": "8999999403195 ",
+    "nama_barang": "MOLTO SOFT PINK 1000ML"
+  },
+  {
+    "kode_barang": "8999999403225 ",
+    "nama_barang": "MOLTO SOFT VIOLET 450ML"
+  },
+  {
+    "kode_barang": "8999999403256 ",
+    "nama_barang": "MOLTO SOFT VIOLET 1000ML"
+  },
+  {
+    "kode_barang": "8999999403287 ",
+    "nama_barang": "MOLTO SOFT GREEN 450ML"
+  },
+  {
+    "kode_barang": "8999999403300 ",
+    "nama_barang": "MOLTO SOFTENER GREEN 900ML"
+  },
+  {
+    "kode_barang": "8999999403317 ",
+    "nama_barang": "MOLTO SOFT GREEN 1000ML"
+  },
+  {
+    "kode_barang": "8999999403331 ",
+    "nama_barang": "MOLTO SOFT PINK 1800 ML"
+  },
+  {
+    "kode_barang": "8999999403348 ",
+    "nama_barang": "MOLTO SOFT BLUE 1800 ML"
+  },
+  {
+    "kode_barang": "8999999403423 ",
+    "nama_barang": "MOLTO PEWANGI PINK 1800ML"
+  },
+  {
+    "kode_barang": "8999999403430 ",
+    "nama_barang": "MOLTO PEWANGI LAVENDER 1800ML"
+  },
+  {
+    "kode_barang": "8999999403478 ",
+    "nama_barang": "MOLTO PEWANGI MANGO 900ML RFL"
+  },
+  {
+    "kode_barang": "8999999403492 ",
+    "nama_barang": "MOLTO SOFT PURE 450ML"
+  },
+  {
+    "kode_barang": "8999999403508 ",
+    "nama_barang": "MOLTO SOFT PURE 900ML"
+  },
+  {
+    "kode_barang": "8999999403522 ",
+    "nama_barang": "MOLTO SOFTENER PURE 1800ML"
+  },
+  {
+    "kode_barang": "8999999403539 ",
+    "nama_barang": "MOLTO PEWANGI MANGO 1800ML"
+  },
+  {
+    "kode_barang": "8999999403546 ",
+    "nama_barang": "MOLTO ESSENCE 250ML"
+  },
+  {
+    "kode_barang": "8999999403553 ",
+    "nama_barang": "MOLTO ESSENCE 300ML"
+  },
+  {
+    "kode_barang": "8999999403591 ",
+    "nama_barang": "MOLTO SOFT S BLUE 900ML RFL"
+  },
+  {
+    "kode_barang": "8999999403652 ",
+    "nama_barang": "MOLTO TRIKA AROMATERAPI 25ML"
+  },
+  {
+    "kode_barang": "8999999403669 ",
+    "nama_barang": "TRIKA AROMATHERAPY 300ML PUMP"
+  },
+  {
+    "kode_barang": "8999999403836 ",
+    "nama_barang": "MOLTO TRIKA SPRING BLUE 450ML"
+  },
+  {
+    "kode_barang": "8999999403843 ",
+    "nama_barang": "MOLTO TRIKA SPRING BLUE 500ML"
+  },
+  {
+    "kode_barang": "8999999403850 ",
+    "nama_barang": "MOLTO SILKY 450R"
+  },
+  {
+    "kode_barang": "8999999403867 ",
+    "nama_barang": "MOLTO SILKY FINE WASH 500ML"
+  },
+  {
+    "kode_barang": "8999999406219 ",
+    "nama_barang": "DOMESTOS NOMOS 6X5 PSG"
+  },
+  {
+    "kode_barang": "8999999406233 ",
+    "nama_barang": "DOMESTOS NOMOS LAVENDER 5PSG"
+  },
+  {
+    "kode_barang": "8999999406240 ",
+    "nama_barang": "DOMESTOS NOMOS LAVENDER"
+  },
+  {
+    "kode_barang": "8999999406912 ",
+    "nama_barang": "SUPER PELL ROSE 800R"
+  },
+  {
+    "kode_barang": "8999999406929 ",
+    "nama_barang": "SUNLIGHT SUPERPELL APPLE 800ML"
+  },
+  {
+    "kode_barang": "8999999406936 ",
+    "nama_barang": "SUNLIGHT SUPERPELL LEMON 400M"
+  },
+  {
+    "kode_barang": "8999999406943 ",
+    "nama_barang": "SUNLIGHT SUPERPELL YELLOW 800M"
+  },
+  {
+    "kode_barang": "8999999406950 ",
+    "nama_barang": "SUNLIGHT SUPERPELL APPLE 400M"
+  },
+  {
+    "kode_barang": "8999999406974 ",
+    "nama_barang": "SUNLIGHT SUPERPELL GREEN 800M"
+  },
+  {
+    "kode_barang": "8999999406998 ",
+    "nama_barang": "SUNLIGHT SUPERPELL PURPLE 800M"
+  },
+  {
+    "kode_barang": "8999999407001 ",
+    "nama_barang": "SUNLIGHT SUPERPELL WHT LL 800M"
+  },
+  {
+    "kode_barang": "8999999407414 ",
+    "nama_barang": "SUPERPELL APPLE 400ML RVL"
+  },
+  {
+    "kode_barang": "8999999407421 ",
+    "nama_barang": "SUPER PELL APPLE 800ML-RVL"
+  },
+  {
+    "kode_barang": "8999999407438 ",
+    "nama_barang": "SUPERPELL LTI APPLE 800ML-BTL"
+  },
+  {
+    "kode_barang": "8999999407476 ",
+    "nama_barang": "SUPERPELL LEMON 400 ML-RVL"
+  },
+  {
+    "kode_barang": "8999999407483 ",
+    "nama_barang": "SUPER PELL LEMON 800ML-RVL"
+  },
+  {
+    "kode_barang": "8999999407490 ",
+    "nama_barang": "SUPERPELL LTI LEMON 800ML-BTL"
+  },
+  {
+    "kode_barang": "8999999407520 ",
+    "nama_barang": "SUPERPELL PINE 400 ML-RVL"
+  },
+  {
+    "kode_barang": "8999999407537 ",
+    "nama_barang": "SUPER PELL PINE 800ML-RVL"
+  },
+  {
+    "kode_barang": "8999999407544 ",
+    "nama_barang": "SUPERPELL LTI PINE 800ML-BTL"
+  },
+  {
+    "kode_barang": "8999999407575 ",
+    "nama_barang": "SUPERPELL FLORAL 400 ML RVL"
+  },
+  {
+    "kode_barang": "8999999407582 ",
+    "nama_barang": "SUPER PELL FLORAL 800ML-RVL"
+  },
+  {
+    "kode_barang": "8999999407599 ",
+    "nama_barang": "SUPERPELL LTI FLORAL 800ML-BTL"
+  },
+  {
+    "kode_barang": "8999999407629 ",
+    "nama_barang": "SUPERPELL FRUITY 400 ML"
+  },
+  {
+    "kode_barang": "8999999407636 ",
+    "nama_barang": "SUPER PELL FRUITY 800ML-RVL"
+  },
+  {
+    "kode_barang": "8999999407643 ",
+    "nama_barang": "SUPERPELL LTI FRUITY 800ML-BTL"
+  },
+  {
+    "kode_barang": "8999999407841 ",
+    "nama_barang": "DOMESTOS WIPOL LEMON 800ML BTL"
+  },
+  {
+    "kode_barang": "8999999407858 ",
+    "nama_barang": "DOMESTOS WIPOL LEMON 800ML RFL"
+  },
+  {
+    "kode_barang": "8999999407865 ",
+    "nama_barang": "WIPOL CLASSIC FINE 900ML BTL"
+  },
+  {
+    "kode_barang": "8999999407872 ",
+    "nama_barang": "WIPOL CLASSIC PINE 450ML RFL"
+  },
+  {
+    "kode_barang": "8999999407889 ",
+    "nama_barang": "DOMESTOS WIPOL CLASSIC 900M RF"
+  },
+  {
+    "kode_barang": "8999999407896 ",
+    "nama_barang": "DOMESTOS WIPOL KARBOL 450ML"
+  },
+  {
+    "kode_barang": "8999999409708 ",
+    "nama_barang": "DOMESTOS NOMOS JUMBO 5 PSG"
+  },
+  {
+    "kode_barang": "8999999409715 ",
+    "nama_barang": "DOMESTOS NOMOS JUMBO 5 PSG"
+  },
+  {
+    "kode_barang": "8999999409777 ",
+    "nama_barang": "DOMESTOS NOMOS 5 PSG"
+  },
+  {
+    "kode_barang": "8999999409784 ",
+    "nama_barang": "DOMESTOS FRESH 500ML"
+  },
+  {
+    "kode_barang": "8999999409791 ",
+    "nama_barang": "DOMESTOS FRESH 1000ML"
+  },
+  {
+    "kode_barang": "8999999409814 ",
+    "nama_barang": "DOMESTOS LEMON 1000ML"
+  },
+  {
+    "kode_barang": "8999999409869 ",
+    "nama_barang": "DOMESTOS NOMOS NYAMUK BAKAR"
+  },
+  {
+    "kode_barang": "8999999409883 ",
+    "nama_barang": "DOMESTOS TRISOL 400ML RFL"
+  },
+  {
+    "kode_barang": "8999999409890 ",
+    "nama_barang": "DOMESTOS TRISOL 800ML RFL"
+  },
+  {
+    "kode_barang": "8999999409906 ",
+    "nama_barang": "DOMESTOS NOMOS JUMBO 5PSG"
+  },
+  {
+    "kode_barang": "8999999409913 ",
+    "nama_barang": "DOMESTOS WIPOL 900ML RFL"
+  },
+  {
+    "kode_barang": "8999999409951 ",
+    "nama_barang": "DOMESTOS NOMOS 6X5 PS"
+  },
+  {
+    "kode_barang": "8999999410032 ",
+    "nama_barang": "DOMESTOS NOMOS JUMBO 5PSG"
+  },
+  {
+    "kode_barang": "8999999410049 ",
+    "nama_barang": "DOMESTOS NOMOS 5 PSG"
+  },
+  {
+    "kode_barang": "8999999418205 ",
+    "nama_barang": "HALO HANDSOAP APPLE PUMP 320M"
+  },
+  {
+    "kode_barang": "8999999418229 ",
+    "nama_barang": "HALO HANDSOAP LEMON PUMP 320M"
+  },
+  {
+    "kode_barang": "8999999418236 ",
+    "nama_barang": "HALO HANDSOAP STRAW PUMP 320M"
+  },
+  {
+    "kode_barang": "8999999418243 ",
+    "nama_barang": "LIFEBUOY HANDWASH WHITE 250ML"
+  },
+  {
+    "kode_barang": "8999999418250 ",
+    "nama_barang": "LIFEBUOY HANDWASH WHITE 320ML"
+  },
+  {
+    "kode_barang": "8999999418267 ",
+    "nama_barang": "LIFEBUOY HANDWASH RED 250ML"
+  },
+  {
+    "kode_barang": "8999999418274 ",
+    "nama_barang": "LIFEBUOY HANDWASH RED 320ML"
+  },
+  {
+    "kode_barang": "8999999418281 ",
+    "nama_barang": "LIFEBOY HAND WASH MILDCARE 200"
+  },
+  {
+    "kode_barang": "8999999418311 ",
+    "nama_barang": "LIFEBOY HAND WASH TP 200"
+  },
+  {
+    "kode_barang": "8999999418328 ",
+    "nama_barang": "LIFEBOY HAND WASH MC 180R"
+  },
+  {
+    "kode_barang": "8999999418335 ",
+    "nama_barang": "LIFEBOY HAND WASH TP 180R"
+  },
+  {
+    "kode_barang": "8999999510787 ",
+    "nama_barang": "DOVE FACIAL FOAM MOIST CR 50ML"
+  },
+  {
+    "kode_barang": "8999999510794 ",
+    "nama_barang": "DOVE FACIAL FOAM MOIST CR 100M"
+  },
+  {
+    "kode_barang": "8999999510855 ",
+    "nama_barang": "DOVE CREAM BAR SOAP SPES SET"
+  },
+  {
+    "kode_barang": "8999999522100 ",
+    "nama_barang": "WALLS MINI CORNETT0"
+  },
+  {
+    "kode_barang": "8999999522162 ",
+    "nama_barang": "WALLS MOO ACTIVE"
+  },
+  {
+    "kode_barang": "8999999682026 ",
+    "nama_barang": "HAZELIN SNOW 50 GR"
+  },
+  {
+    "kode_barang": "8999999682118 ",
+    "nama_barang": "HAZELINE SNOW F YOUR DEL SK 30"
+  },
+  {
+    "kode_barang": "8999999682354 ",
+    "nama_barang": "HAZELINE DEEP CLEANS GEL 120G"
+  },
+  {
+    "kode_barang": "8999999682712 ",
+    "nama_barang": "HAZELINE WHI&NAT MOIS CR 20G"
+  },
+  {
+    "kode_barang": "8999999682729 ",
+    "nama_barang": "HAZELIN WHIT/NATURAL 50 GR"
+  },
+  {
+    "kode_barang": "8999999700096 ",
+    "nama_barang": "CLEAR STYLING GEL HARD 50GR"
+  },
+  {
+    "kode_barang": "8999999700171 ",
+    "nama_barang": "SUNSILK SHAMP APPLE ESS 100M"
+  },
+  {
+    "kode_barang": "8999999700225 ",
+    "nama_barang": "REXONA ROLL ON COOL WHT 40M"
+  },
+  {
+    "kode_barang": "8999999700317 ",
+    "nama_barang": "BRISK HAIR CREAM DANRUF 100G"
+  },
+  {
+    "kode_barang": "8999999700355 ",
+    "nama_barang": "BRISK BY CLEAR AD 250 GR"
+  },
+  {
+    "kode_barang": "8999999700379 ",
+    "nama_barang": "SUNSILK SHAMP APPLE ESS 200M"
+  }
+]
