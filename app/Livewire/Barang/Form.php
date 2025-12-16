@@ -40,6 +40,7 @@ class Form extends Component
         $field0_jenis_barang = $columns_jenis_barang[0]; // Nama kolom pertama
         $field1_jenis_barang = $columns_jenis_barang[1]; // Nama kolom kedua
         $this->jenis_barang_data = DB::table('jenis_barang')
+            ->where('toko_id', $user->akses->toko_id)
             ->select(
                 DB::raw($field0_jenis_barang . ' as id'),
                 DB::raw($field1_jenis_barang . ' as name')
@@ -49,6 +50,7 @@ class Form extends Component
         $field0_satuan = $columns_satuan[0]; // Nama kolom pertama
         $field1_satuan = $columns_satuan[1]; // Nama kolom kedua
         $this->satuan_data = DB::table('satuan')
+            ->where('toko_id', $user->akses->toko_id)
             ->select(
                 DB::raw($field0_satuan . ' as id'),
                 DB::raw($field1_satuan . ' as name')

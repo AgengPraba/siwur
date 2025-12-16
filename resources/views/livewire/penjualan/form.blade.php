@@ -38,7 +38,7 @@
                     <x-icon name="o-arrow-left" class="w-5 h-5" />
                 </a>
                 <h1 class="text-lg font-bold text-gray-800 dark:text-white">{{ $type == 'create' ? 'Tambah' : 'Edit' }}
-                    Penjualan KU</h1>
+                    Penjualan</h1>
             </div>
             <div class="flex items-center space-x-3">
                 <div class="text-sm text-gray-600 dark:text-gray-300">
@@ -156,7 +156,8 @@
         <div class="flex flex-wrap gap-2 justify-center">
             <span><kbd class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">F1</kbd> Scan Barcode</span>
             <span><kbd class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">F2</kbd> Cari Item</span>
-            <span><kbd class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">Ctrl</kbd> + <kbd class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">F2</kbd> Tambah Item</span>
+            <span><kbd class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">Ctrl</kbd> + <kbd
+                    class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">F2</kbd> Tambah Item</span>
             <span><kbd class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">F3</kbd> Pembayaran Cash</span>
             <span><kbd class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">F4</kbd> Pembayaran Transfer</span>
             <span><kbd class="px-1 py-0.5 bg-gray-100 dark:bg-gray-700 rounded">F5</kbd> Lunasi</span>
@@ -298,7 +299,7 @@
                                     class="absolute right-3 top-1/2 transform -translate-y-1/2">
                                     <svg class="animate-spin h-4 w-4 text-blue-500" xmlns="http://www.w3.org/2000/svg"
                                         fill="none" viewBox="0 0 24 24">
-                                        <circle class="opacity-25" cx="12" cy="12" r="10"`
+                                        <circle class="opacity-25" cx="12" cy="12" r="10" `
                                             stroke="currentColor" stroke-width="4"></circle>
                                         <path class="opacity-75" fill="currentColor"
                                             d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z">
@@ -327,9 +328,10 @@
                     <!-- Mobile Layout -->
                     <div class="block sm:hidden space-y-3">
                         <!-- Barang Search -->
-                        <div class="relative" data-shortcut-target="item-search">   
-                            <x-choices  wire:model.live="detail_barang_id" :options="$this->getBarangSearch" debounce="300ms"
-                                placeholder="🔍 Cari nama barang atau kode..." single searchable class="h-12 mobile-input w-full">
+                        <div class="relative" data-shortcut-target="item-search">
+                            <x-choices wire:model.live="detail_barang_id" :options="$this->getBarangSearch" debounce="300ms"
+                                placeholder="🔍 Cari nama barang atau kode..." single searchable
+                                class="h-12 mobile-input w-full">
                             </x-choices>
                             <div class="text-xs text-gray-500 dark:text-gray-400 mt-1">Ketik untuk mencari barang</div>
                         </div>
@@ -365,8 +367,8 @@
                                 <div class="text-xs text-gray-500 dark:text-gray-400 mt-1">Harga per satuan</div>
                             </div>
                             <div class="relative">
-                                <x-input wire:model.live.debounce.500ms="detail_jumlah" type="number" step="1" placeholder="Qty"
-                                    min="0" max="{{ $detail_jumlah_tersedia }}"
+                                <x-input wire:model.live.debounce.500ms="detail_jumlah" type="number" step="1"
+                                    placeholder="Qty" min="0" max="{{ $detail_jumlah_tersedia }}"
                                     class="dark:bg-gray-700 dark:text-white h-12 mobile-input" />
                                 <div class="text-xs text-gray-500 dark:text-gray-400 mt-1">
                                     @if ($detail_jumlah_tersedia > 0)
@@ -414,8 +416,8 @@
                             <!-- Barang Search -->
                             <div class="col-span-12 md:col-span-4" data-shortcut-target="item-search">
                                 <x-choices wire:model.live="detail_barang_id" :options="$this->getBarangSearch" debounce="300ms"
-                                    placeholder="🔍 Cari barang (F2)" single searchable
-                                    class="h-10 w-full" title="Ketik nama barang atau kode untuk mencari">
+                                    placeholder="Cari barang (F2)" single searchable class="h-10 w-full"
+                                    title="Ketik nama barang atau kode untuk mencari">
                                 </x-choices>
                                 <div class="text-xs text-gray-500 dark:text-gray-400 mt-1">Ketik untuk mencari barang
                                 </div>
@@ -424,7 +426,7 @@
                             <!-- Compact Controls Row -->
                             <div class="col-span-12 md:col-span-8 grid grid-cols-12 gap-2">
                                 <!-- Satuan -->
-                                <div class="col-span-3">
+                                <div class="col-span-2">
                                     <x-select wire:model.live="detail_satuan_id" :options="$satuan_data"
                                         placeholder="Pilih Satuan" class="dark:bg-gray-700 dark:text-white h-10"
                                         title="Pilih unit pengukuran barang" />
@@ -456,24 +458,48 @@
                                 </div>
 
                                 <!-- Jumlah -->
-                                <div class="col-span-2">
+                                <div class="col-span-3">
                                     <div class="relative">
-                                        <div class="flex">
-                                            <button type="button" 
-                                                wire:click="decreaseQuantity"
-                                                class="px-3 py-2 bg-gray-100 dark:bg-gray-600 text-gray-700 dark:text-gray-300 rounded-l-md border border-r-0 border-gray-300 dark:border-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500 transition-colors"
+                                        <div class="inline-flex items-center h-10">
+                                            <!-- Minus -->
+                                            <button type="button" wire:click="decreaseQuantity"
+                                                class="flex items-center justify-center w-10 h-10
+               bg-gray-100   dark:bg-gray-600
+               text-gray-700 dark:text-gray-300
+               border border-r-0 border-gray-300 dark:border-gray-600
+               rounded-l-md
+               hover:bg-gray-300 dark:hover:bg-gray-500
+               transition-colors"
                                                 :disabled="$wire.detail_jumlah <= 0">
                                                 <x-icon name="o-minus" class="w-4 h-4" />
                                             </button>
-                                            <x-input wire:model.live="detail_jumlah" type="number" step="1" min="0"
-                                                placeholder="Qty" max="{{ $detail_jumlah_tersedia }}"
-                                                class="dark:bg-gray-700 dark:text-white h-10 rounded-none border-x-0 text-center" 
+
+                                            <!-- Input -->
+                                            <x-input wire:model.live="detail_jumlah" type="number" min="0"
+                                                step="1" max="{{ $detail_jumlah_tersedia }}" placeholder="Qty"
+                                                class="h-10 w-10 text-center
+               border-y border-gray-300 dark:border-gray-600
+               rounded-none
+               focus:ring-0 focus:border-gray-400
+               dark:bg-gray-700 dark:text-white
+               [appearance:textfield]
+               [&::-webkit-inner-spin-button]:appearance-none
+               [&::-webkit-outer-spin-button]:appearance-none"
                                                 :title="$detail_jumlah > 0
-                                                    ? 'Jumlah barang (Tersedia: ' . number_format($detail_jumlah_tersedia, 0) . ')'
+                                                    ? 'Jumlah barang (Tersedia: ' .
+                                                        number_format($detail_jumlah_tersedia, 0) .
+                                                        ')'
                                                     : 'Jumlah barang'" />
-                                            <button type="button" 
-                                                wire:click="increaseQuantity"
-                                                class="px-3 py-2 bg-gray-100 dark:bg-gray-600 text-gray-700 dark:text-gray-300 rounded-r-md border border-l-0 border-gray-300 dark:border-gray-600 hover:bg-gray-300 dark:hover:bg-gray-500 transition-colors"
+
+                                            <!-- Plus -->
+                                            <button type="button" wire:click="increaseQuantity"
+                                                class="flex items-center justify-center w-10 h-10
+               bg-gray-100 dark:bg-gray-600
+               text-gray-700 dark:text-gray-300
+               border border-l-0 border-gray-300 dark:border-gray-600
+               rounded-r-md
+               hover:bg-gray-300 dark:hover:bg-gray-500
+               transition-colors"
                                                 :disabled="$wire.detail_jumlah >= {{ $detail_jumlah_tersedia }}">
                                                 <x-icon name="o-plus" class="w-4 h-4" />
                                             </button>
@@ -482,7 +508,8 @@
                                     <div class="text-xs text-gray-500 dark:text-gray-400 mt-1">
                                         @if ($detail_jumlah_tersedia > 0)
                                             <span class="flex items-center justify-between">
-                                                <span>Tersedia: {{ number_format($detail_jumlah_tersedia - $detail_jumlah, 0) }}</span>
+                                                <span>Tersedia:
+                                                    {{ number_format($detail_jumlah_tersedia - $detail_jumlah, 0) }}</span>
                                             </span>
                                         @else
                                             Masukkan jumlah
@@ -492,8 +519,7 @@
 
                                 <!-- Add Button -->
                                 <div class="col-span-2">
-                                    <x-button wire:click="addDetail" icon="o-plus"
-                                        data-shortcut-action="add-item"
+                                    <x-button wire:click="addDetail" icon="o-plus" data-shortcut-action="add-item"
                                         class="btn-primary dark:bg-blue-600 dark:hover:bg-blue-700 h-10 w-full justify-center"
                                         :disabled="!($detail_harga_satuan > 0 && $detail_jumlah > 0)"
                                         title="{{ $detail_harga_satuan > 0 && $detail_jumlah > 0 ? 'Klik untuk menambah item ke daftar' : 'Lengkapi harga dan jumlah terlebih dahulu' }}" />
@@ -829,8 +855,7 @@
                                 ['id' => 'check', 'name' => 'Cek'],
                                 ['id' => 'other', 'name' => 'Lainnya'],
                             ]"
-                                placeholder="Jenis Pembayaran"
-                                data-shortcut-target="payment-type"
+                                placeholder="Jenis Pembayaran" data-shortcut-target="payment-type"
                                 class="dark:bg-gray-700 dark:text-white h-12 mobile-input" />
                             <x-input wire:model="payment_jumlah" type="number" step="1" min="0"
                                 placeholder="Jumlah" data-shortcut-target="payment-amount"
@@ -860,8 +885,7 @@
                                 <!-- Payment Amount -->
                                 <div class="col-span-5">
                                     <x-input wire:model="payment_jumlah" type="number" step="1"
-                                        min="0" placeholder="Jumlah"
-                                        data-shortcut-target="payment-amount"
+                                        min="0" placeholder="Jumlah" data-shortcut-target="payment-amount"
                                         class="dark:bg-gray-700 dark:text-white h-10" />
                                 </div>
 
@@ -1039,8 +1063,7 @@
                             <!-- Desktop Main Action Buttons -->
                             <div class="hidden sm:block space-y-2">
                                 <x-button wire:click="addPaymentAndSave" icon="o-check-circle"
-                                    label="Bayar & Simpan (F7)"
-                                    data-shortcut-action="pay-and-save"
+                                    label="Bayar & Simpan (F7)" data-shortcut-action="pay-and-save"
                                     class="btn-success w-full dark:bg-green-600 dark:hover:bg-green-700 h-10"
                                     spinner />
                                 <x-button wire:click="store" icon="o-paper-airplane" label="Simpan Transaksi (F6)"
@@ -1117,8 +1140,8 @@
                             </div>
                         </div>
                         @if ($this->type === 'create')
-                        <x-button icon="o-trash" label="Hapus Data Temp" wire:click="clearTempData"
-                            class="btn-outline btn-error w-full dark:border-red-500 dark:text-red-500 dark:hover:bg-red-500 dark:hover:text-white h-12 sm:h-10" />
+                            <x-button icon="o-trash" label="Hapus Data Temp" wire:click="clearTempData"
+                                class="btn-outline btn-error w-full dark:border-red-500 dark:text-red-500 dark:hover:bg-red-500 dark:hover:text-white h-12 sm:h-10" />
                         @endif
                     </div>
                 </div>
@@ -1130,8 +1153,7 @@
 
     @script
         <script>
-            
-            (function () {
+            (function() {
                 if (window.__POS_SHORTCUTS_INITIALIZED__) {
                     return;
                 }
@@ -1149,11 +1171,14 @@
                     'auto-settle-print-redirect': 'pos:auto-settle-print-redirect',
                 };
 
-                const focusableSelector = 'input:not([type="hidden"]):not([disabled]):not([readonly]), textarea:not([disabled]):not([readonly]), select:not([disabled]):not([readonly]), [contenteditable="true"], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
+                const focusableSelector =
+                    'input:not([type="hidden"]):not([disabled]):not([readonly]), textarea:not([disabled]):not([readonly]), select:not([disabled]):not([readonly]), [contenteditable="true"], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
 
                 const onReady = (callback) => {
                     if (document.readyState === 'loading') {
-                        document.addEventListener('DOMContentLoaded', callback, { once: true });
+                        document.addEventListener('DOMContentLoaded', callback, {
+                            once: true
+                        });
                     } else {
                         callback();
                     }
@@ -1198,21 +1223,27 @@
                     for (const node of nodes) {
                         const focusable = findFirstFocusable(node);
                         if (!focusable) {
-                            const choicesContainer = node.classList?.contains('choices')
-                                ? node
-                                : node.querySelector?.('.choices');
+                            const choicesContainer = node.classList?.contains('choices') ?
+                                node :
+                                node.querySelector?.('.choices');
                             if (choicesContainer && isVisible(choicesContainer)) {
                                 const trigger = choicesContainer.querySelector?.('.choices__inner') ?? choicesContainer;
                                 if (trigger && typeof trigger.dispatchEvent === 'function') {
-                                    trigger.dispatchEvent(new MouseEvent('mousedown', { bubbles: true }));
-                                    trigger.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+                                    trigger.dispatchEvent(new MouseEvent('mousedown', {
+                                        bubbles: true
+                                    }));
+                                    trigger.dispatchEvent(new MouseEvent('click', {
+                                        bubbles: true
+                                    }));
                                 }
 
                                 const searchInput = choicesContainer.querySelector?.('.choices__input--cloned');
                                 if (searchInput && typeof searchInput.focus === 'function') {
                                     // focus inside next tick to allow Choices to open
                                     setTimeout(() => {
-                                        searchInput.focus({ preventScroll: true });
+                                        searchInput.focus({
+                                            preventScroll: true
+                                        });
                                         if (select && typeof searchInput.select === 'function') {
                                             searchInput.select();
                                         }
@@ -1221,14 +1252,18 @@
                                 }
 
                                 if (typeof choicesContainer.focus === 'function') {
-                                    choicesContainer.focus({ preventScroll: true });
+                                    choicesContainer.focus({
+                                        preventScroll: true
+                                    });
                                     return true;
                                 }
                             }
                             continue;
                         }
                         if (typeof focusable.focus === 'function') {
-                            focusable.focus({ preventScroll: true });
+                            focusable.focus({
+                                preventScroll: true
+                            });
                         }
                         if (select && typeof focusable.select === 'function') {
                             focusable.select();
@@ -1245,21 +1280,21 @@
                         return false;
                     }
                     if (window.Livewire && typeof window.Livewire.dispatch === 'function') {
-                        payload === undefined
-                            ? window.Livewire.dispatch(eventName)
-                            : window.Livewire.dispatch(eventName, payload);
+                        payload === undefined ?
+                            window.Livewire.dispatch(eventName) :
+                            window.Livewire.dispatch(eventName, payload);
                         return true;
                     }
                     if (window.Livewire && typeof window.Livewire.emit === 'function') {
-                        payload === undefined
-                            ? window.Livewire.emit(eventName)
-                            : window.Livewire.emit(eventName, payload);
+                        payload === undefined ?
+                            window.Livewire.emit(eventName) :
+                            window.Livewire.emit(eventName, payload);
                         return true;
                     }
                     if (window.livewire && typeof window.livewire.emit === 'function') {
-                        payload === undefined
-                            ? window.livewire.emit(eventName)
-                            : window.livewire.emit(eventName, payload);
+                        payload === undefined ?
+                            window.livewire.emit(eventName) :
+                            window.livewire.emit(eventName, payload);
                         return true;
                     }
                     return false;
@@ -1284,7 +1319,9 @@
                     const barcode = document.querySelector('[data-shortcut-target="scan-barcode"]');
                     if (barcode) {
                         barcode.value = '';
-                        barcode.dispatchEvent(new Event('input', { bubbles: true }));
+                        barcode.dispatchEvent(new Event('input', {
+                            bubbles: true
+                        }));
                     }
                     triggerAction('clear-barcode');
                     focusBarcodeInput();
@@ -1314,12 +1351,18 @@
                             return;
                         }
                         selectEl.value = type;
-                        selectEl.dispatchEvent(new Event('input', { bubbles: true }));
-                        selectEl.dispatchEvent(new Event('change', { bubbles: true }));
+                        selectEl.dispatchEvent(new Event('input', {
+                            bubbles: true
+                        }));
+                        selectEl.dispatchEvent(new Event('change', {
+                            bubbles: true
+                        }));
                         updated = true;
                     });
 
-                    const dispatched = dispatchLivewire('pos:select-payment-type', { type });
+                    const dispatched = dispatchLivewire('pos:select-payment-type', {
+                        type
+                    });
                     focusShortcutTarget('payment-type', false);
                     focusShortcutTarget('payment-amount');
                     return updated || dispatched;
@@ -1333,7 +1376,9 @@
                         return true;
                     }
 
-                    const dispatched = dispatchLivewire('pos:set-quick-cash', { amount });
+                    const dispatched = dispatchLivewire('pos:set-quick-cash', {
+                        amount
+                    });
                     if (dispatched) {
                         focusShortcutTarget('payment-amount');
                     }
@@ -1358,7 +1403,9 @@
                         return false;
                     }
 
-                    const dispatched = dispatchLivewire('pos:set-suggested-payment', { amount });
+                    const dispatched = dispatchLivewire('pos:set-suggested-payment', {
+                        amount
+                    });
                     if (dispatched) {
                         focusShortcutTarget('payment-amount');
                     }
