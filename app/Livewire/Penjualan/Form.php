@@ -51,6 +51,8 @@ class Form extends Component
                 'type' => $this->type,
                 'details_count_before' => $detailsCountBefore
             ]);
+//
+
 
             // Ensure arrays are properly initialized with safe defaults
             $this->details = is_array($this->details) ? $this->details : [];
