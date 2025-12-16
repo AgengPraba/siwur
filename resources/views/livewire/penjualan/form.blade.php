@@ -11,7 +11,7 @@
                         <x-icon name="o-arrow-left" class="w-5 h-5" />
                     </a>
                     <h1 class="text-base font-bold text-gray-800 dark:text-white">
-                        {{ $type == 'create' ? 'Tambah' : 'Edit' }} Penjualan ku</h1>
+                        {{ $type == 'create' ? 'Tambah' : 'Edit' }} Penjualan</h1>
                 </div>
                 <div class="text-xs bg-gray-100 dark:bg-gray-700 px-2 py-1 rounded-full">
                     <span class="font-medium">{{ $nomor_penjualan }}</span>
@@ -38,7 +38,7 @@
                     <x-icon name="o-arrow-left" class="w-5 h-5" />
                 </a>
                 <h1 class="text-lg font-bold text-gray-800 dark:text-white">{{ $type == 'create' ? 'Tambah' : 'Edit' }}
-                    Penjualan</h1>
+                    Penjualan KU</h1>
             </div>
             <div class="flex items-center space-x-3">
                 <div class="text-sm text-gray-600 dark:text-gray-300">
